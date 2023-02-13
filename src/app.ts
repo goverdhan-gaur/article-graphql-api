@@ -1,3 +1,5 @@
+import * as dotenv from 'dotenv'
+dotenv.config();
 import { ApolloServer } from '@apollo/server';
 import { expressMiddleware } from '@apollo/server/express4';
 import { ApolloServerPluginDrainHttpServer } from '@apollo/server/plugin/drainHttpServer';
@@ -52,5 +54,9 @@ app.use(
     context: async ({ req }) => ({ token: req.headers.token }),
   }),
 );
+
+app.get("/", (req, res) => {
+  res.send("Welcome you to Article Graphql API")
+})
 
 await new Promise<void>((resolve) => httpServer.listen({ port: process.env.PORT }, resolve));
