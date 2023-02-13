@@ -33,4 +33,4 @@ app.use(
   }),
 );
 
-await new Promise<void>((resolve) => httpServer.listen({ port: 4000 }, resolve));
+await new Promise<void>((resolve) => httpServer.listen({ port: process.env.PORT }, resolve));
