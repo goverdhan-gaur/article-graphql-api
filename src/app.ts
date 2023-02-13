@@ -1,7 +1,8 @@
 import { ApolloServer } from '@apollo/server';
 import { expressMiddleware } from '@apollo/server/express4';
 import { ApolloServerPluginDrainHttpServer } from '@apollo/server/plugin/drainHttpServer';
-import {ApolloServerPluginLandingPageProductionDefault} from '@apollo/server/plugin/landingPage/default';
+import {ApolloServerPluginLandingPageProductionDefault, ApolloServerPluginLandingPageLocalDefault} from '@apollo/server/plugin/landingPage/default';
+
 import express from 'express';
 import http from 'http';
 import cors from 'cors';
@@ -22,6 +23,15 @@ const server = new ApolloServer({
   introspection: true
 });
 
+const server2 = new ApolloServer({
+  typeDefs,
+  resolvers,
+  plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
+    ApolloServerPluginLandingPageLocalDefault()
+  ],
+  introspection: true
+});
+
 await server.start();
 
 app.use(
@@ -31,6 +41,11 @@ app.use(
   expressMiddleware(server, {
     context: async ({ req }) => ({ token: req.headers.token }),
   }),
+);
+
+app.use(
+  '/graphql-playground',
+  expressMiddleware(server2),
 );
 
 await new Promise<void>((resolve) => httpServer.listen({ port: process.env.PORT }, resolve));
