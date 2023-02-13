@@ -17,16 +17,19 @@ const graphql = new ApolloServer({
   typeDefs,
   resolvers,
   plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
-    ApolloServerPluginLandingPageProductionDefault()
-  ],
-  introspection: true
+    ApolloServerPluginLandingPageProductionDefault({
+      footer: false
+    })
+  ]
 });
 
 const playground = new ApolloServer({
   typeDefs,
   resolvers,
   plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
-    ApolloServerPluginLandingPageLocalDefault()
+    ApolloServerPluginLandingPageLocalDefault({
+      footer: false
+    })
   ],
   introspection: true
 });
