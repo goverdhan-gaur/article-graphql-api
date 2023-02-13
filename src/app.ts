@@ -48,7 +48,6 @@ app.use(
 
 app.use(
   '/graphql-playground',
-  cors<cors.CorsRequest>(),
   bodyParser.json(),
   expressMiddleware(playground, {
     context: async ({ req }) => ({ token: req.headers.token }),
