@@ -1,16 +1,16 @@
 import * as dotenv from 'dotenv'
-dotenv.config();
 import { ApolloServer } from '@apollo/server';
 import { expressMiddleware } from '@apollo/server/express4';
 import { ApolloServerPluginDrainHttpServer } from '@apollo/server/plugin/drainHttpServer';
 import {ApolloServerPluginLandingPageProductionDefault, ApolloServerPluginLandingPageLocalDefault} from '@apollo/server/plugin/landingPage/default';
-
 import express from 'express';
 import http from 'http';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import { typeDefs } from './schemas/schema.js';
 import { resolvers } from './resolvers/Query.js';
+
+dotenv.config();
 
 const app = express();
 
