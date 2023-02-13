@@ -14,7 +14,7 @@ const app = express();
 
 const httpServer = http.createServer(app);
 
-const server = new ApolloServer({
+const graphql = new ApolloServer({
   typeDefs,
   resolvers,
   plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
@@ -23,7 +23,7 @@ const server = new ApolloServer({
   introspection: true
 });
 
-const server2 = new ApolloServer({
+const playground = new ApolloServer({
   typeDefs,
   resolvers,
   plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
@@ -32,20 +32,25 @@ const server2 = new ApolloServer({
   introspection: true
 });
 
-await server.start();
+await graphql.start();
+await playground.start();
 
 app.use(
   '/graphql',
   cors<cors.CorsRequest>(),
   bodyParser.json(),
-  expressMiddleware(server, {
+  expressMiddleware(graphql, {
     context: async ({ req }) => ({ token: req.headers.token }),
   }),
 );
 
 app.use(
   '/graphql-playground',
-  expressMiddleware(server2),
+  cors<cors.CorsRequest>(),
+  bodyParser.json(),
+  expressMiddleware(playground, {
+    context: async ({ req }) => ({ token: req.headers.token }),
+  }),
 );
 
 await new Promise<void>((resolve) => httpServer.listen({ port: process.env.PORT }, resolve));
