@@ -1,7 +1,7 @@
 import { ApolloServer } from '@apollo/server';
 import { expressMiddleware } from '@apollo/server/express4';
 import { ApolloServerPluginDrainHttpServer } from '@apollo/server/plugin/drainHttpServer';
-import {ApolloServerPluginLandingPageProductionDefault, ApolloServerPluginLandingPageLocalDefault} from '@apollo/server/plugin/landingPage/default';
+import { ApolloServerPluginLandingPageProductionDefault, ApolloServerPluginLandingPageLocalDefault } from '@apollo/server/plugin/landingPage/default';
 import express from 'express';
 import http from 'http';
 import cors from 'cors';
@@ -10,6 +10,8 @@ import { typeDefs } from './schemas/schema.js';
 import { resolvers } from './resolvers/Query.js';
 
 const app = express();
+
+app.set('view engine', 'ejs');
 
 const httpServer = http.createServer(app);
 
@@ -55,7 +57,7 @@ app.use(
 );
 
 app.get("/", (req, res) => {
-  res.send("Welcome you to Article Graphql API")
+  res.render('index');
 })
 
 await new Promise<void>((resolve) => httpServer.listen({ port: process.env.PORT }, resolve));
