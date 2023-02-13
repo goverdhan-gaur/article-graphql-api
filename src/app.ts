@@ -1,6 +1,7 @@
 import { ApolloServer } from '@apollo/server';
 import { expressMiddleware } from '@apollo/server/express4';
 import { ApolloServerPluginDrainHttpServer } from '@apollo/server/plugin/drainHttpServer';
+import {ApolloServerPluginLandingPageProductionDefault} from '@apollo/server/plugin/landingPage/default';
 import express from 'express';
 import http from 'http';
 import cors from 'cors';
@@ -15,7 +16,9 @@ const httpServer = http.createServer(app);
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
+  plugins: [ApolloServerPluginDrainHttpServer({ httpServer }),
+    ApolloServerPluginLandingPageProductionDefault()
+  ],
   introspection: true
 });
 
