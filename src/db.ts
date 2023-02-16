@@ -8,7 +8,7 @@ export const articles = [
     title: "Editor",
     text: "Laceration with foreign body, left knee, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/227x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/227x100.png/cc0000/ffffff",
   },
   {
     id: "30afff41-d66d-4d3f-9f6b-b83f4969ca0c",
@@ -19,7 +19,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Toxic effect of unspecified snake venom, intentional self-harm",
     type: "Business",
-    url: "http://dummyimage.com/123x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/123x100.png/cc0000/ffffff",
   },
   {
     id: "d6df1532-35fc-403e-a0cc-e3b1fa15342d",
@@ -30,7 +30,7 @@ export const articles = [
     title: "Safety Technician I",
     text: "Walked into lamppost",
     type: "Shopping",
-    url: "http://dummyimage.com/208x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/208x100.png/ff4444/ffffff",
   },
   {
     id: "ed789b05-8489-4ce0-9bdb-b496fa3b4892",
@@ -41,7 +41,7 @@ export const articles = [
     title: "Geological Engineer",
     text: "Poisoning by, adverse effect of and underdosing of chloramphenicol group",
     type: "Business",
-    url: "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/141x100.png/5fa2dd/ffffff",
   },
   {
     id: "1d2072ba-3a1b-4fc2-932f-70107cdac9e9",
@@ -52,7 +52,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Other fracture of head and neck of left femur, subsequent encounter for closed fracture with routine healing",
     type: "Shopping",
-    url: "http://dummyimage.com/182x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/182x100.png/cc0000/ffffff",
   },
   {
     id: "2ccba5ec-ca1b-4b34-9111-4f9ef5330613",
@@ -63,7 +63,7 @@ export const articles = [
     title: "Librarian",
     text: "Benign carcinoid tumor of the ascending colon",
     type: "Shopping",
-    url: "http://dummyimage.com/249x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/249x100.png/ff4444/ffffff",
   },
   {
     id: "20c5a7ff-57f0-4e08-8328-b6587f013d5b",
@@ -74,7 +74,7 @@ export const articles = [
     title: "Payment Adjustment Coordinator",
     text: "Sprain of metacarpophalangeal joint of unspecified thumb, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/157x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/157x100.png/cc0000/ffffff",
   },
   {
     id: "6e5c6dd2-b71d-4a76-b19d-e1425043e7da",
@@ -85,7 +85,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 31 minutes to 59 minutes",
     type: "Business",
-    url: "http://dummyimage.com/211x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/211x100.png/ff4444/ffffff",
   },
   {
     id: "5f726845-7aa4-43e0-a97a-ed74c6b54637",
@@ -96,7 +96,7 @@ export const articles = [
     title: "Analog Circuit Design manager",
     text: "Dislocation of T1/T2 thoracic vertebra, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/242x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/242x100.png/cc0000/ffffff",
   },
   {
     id: "fb977603-6e10-4a7c-b591-d279da6c7362",
@@ -107,7 +107,7 @@ export const articles = [
     title: "Paralegal",
     text: "Passenger in pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/203x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/203x100.png/ff4444/ffffff",
   },
   {
     id: "71f53061-f3a8-4ea1-aeea-1106d0bd8bc2",
@@ -118,7 +118,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Nondisplaced fracture of proximal phalanx of right great toe, initial encounter for open fracture",
     type: "Business",
-    url: "http://dummyimage.com/217x100.png/dddddd/000000",
+    url: "https://dummyimage.com/217x100.png/dddddd/000000",
   },
   {
     id: "2f07c3cd-ea80-497b-a55a-462b0851f983",
@@ -129,7 +129,7 @@ export const articles = [
     title: "Quality Engineer",
     text: "Hodgkin lymphoma, unspecified",
     type: "Business",
-    url: "http://dummyimage.com/111x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/111x100.png/cc0000/ffffff",
   },
   {
     id: "335802ae-f718-47e4-967b-0a7eb771ddeb",
@@ -140,7 +140,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Broken internal right hip prosthesis, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/139x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/139x100.png/5fa2dd/ffffff",
   },
   {
     id: "8c8b946a-820c-4d1a-9d36-8fa8469a9b61",
@@ -151,7 +151,7 @@ export const articles = [
     title: "Tax Accountant",
     text: "Encounter for examination and observation for unspecified reason",
     type: "Shopping",
-    url: "http://dummyimage.com/145x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/145x100.png/ff4444/ffffff",
   },
   {
     id: "55d2f661-cfde-4882-a9dd-76d14682ba9d",
@@ -162,7 +162,7 @@ export const articles = [
     title: "Recruiter",
     text: "Unspecified fracture of upper end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/110x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/110x100.png/5fa2dd/ffffff",
   },
   {
     id: "878d300b-14d4-4887-a8b6-4563eb48196d",
@@ -173,7 +173,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Congenital malformations of aortic and mitral valves",
     type: "Shopping",
-    url: "http://dummyimage.com/236x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/236x100.png/5fa2dd/ffffff",
   },
   {
     id: "cee2ed76-c930-4f42-8bf8-1771b64b84c6",
@@ -184,7 +184,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Maternal care for other isoimmunization, first trimester, fetus 4",
     type: "Business",
-    url: "http://dummyimage.com/134x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/134x100.png/ff4444/ffffff",
   },
   {
     id: "fbbad5d5-d67d-4389-934d-2785a73df614",
@@ -195,7 +195,7 @@ export const articles = [
     title: "Data Coordiator",
     text: "Toxic liver disease with chronic active hepatitis with ascites",
     type: "Business",
-    url: "http://dummyimage.com/149x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/149x100.png/cc0000/ffffff",
   },
   {
     id: "53b14831-7727-477b-ad8d-c95eab2d2c0a",
@@ -206,7 +206,7 @@ export const articles = [
     title: "Technical Writer",
     text: "Displaced fracture of lateral condyle of left humerus, initial encounter for open fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/122x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/122x100.png/ff4444/ffffff",
   },
   {
     id: "131a642f-cae7-46ef-9b0d-502a88776009",
@@ -217,7 +217,7 @@ export const articles = [
     title: "Programmer III",
     text: "Longitudinal reduction defect of left tibia",
     type: "Business",
-    url: "http://dummyimage.com/162x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/162x100.png/ff4444/ffffff",
   },
   {
     id: "5e6d87a2-6852-4f7b-be0b-28cdf0841316",
@@ -228,7 +228,7 @@ export const articles = [
     title: "Office Assistant I",
     text: "Laceration without foreign body of left thumb with damage to nail, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/119x100.png/dddddd/000000",
+    url: "https://dummyimage.com/119x100.png/dddddd/000000",
   },
   {
     id: "a3a0b6c9-75b1-40df-8dd8-210b19ce21d4",
@@ -239,7 +239,7 @@ export const articles = [
     title: "Budget/Accounting Analyst III",
     text: "Transection (partial) of abdomen, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/164x100.png/5fa2dd/ffffff",
   },
   {
     id: "250348ad-7542-43d8-9c5f-f4e3a2d77cfb",
@@ -250,7 +250,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Obstructed labor due to maternal pelvic abnormality",
     type: "Shopping",
-    url: "http://dummyimage.com/153x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/153x100.png/ff4444/ffffff",
   },
   {
     id: "3a04f42d-b50c-4b06-aa0e-080090ff7b2a",
@@ -261,7 +261,7 @@ export const articles = [
     title: "Systems Administrator I",
     text: "Cystic meniscus, unspecified medial meniscus, right knee",
     type: "Shopping",
-    url: "http://dummyimage.com/171x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/171x100.png/cc0000/ffffff",
   },
   {
     id: "15dce635-3d55-4f21-aa79-94cd0e148b06",
@@ -272,7 +272,7 @@ export const articles = [
     title: "Marketing Manager",
     text: "Malignant neoplasm of frontal lobe",
     type: "Business",
-    url: "http://dummyimage.com/209x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/209x100.png/ff4444/ffffff",
   },
   {
     id: "de9348ba-8f8d-43c0-bfcf-66d28fe1afed",
@@ -283,7 +283,7 @@ export const articles = [
     title: "Tax Accountant",
     text: "Car driver injured in collision with other type car in traffic accident, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/218x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/218x100.png/5fa2dd/ffffff",
   },
   {
     id: "12b3fd15-659e-4936-9780-71b1e8866567",
@@ -294,7 +294,7 @@ export const articles = [
     title: "Product Engineer",
     text: "Wedge compression fracture of second lumbar vertebra",
     type: "Shopping",
-    url: "http://dummyimage.com/219x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/219x100.png/cc0000/ffffff",
   },
   {
     id: "9faa96c2-0cbf-4f92-b547-764c61ee08b3",
@@ -305,7 +305,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Unspecified injury of right wrist, hand and finger(s), sequela",
     type: "Business",
-    url: "http://dummyimage.com/133x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/133x100.png/cc0000/ffffff",
   },
   {
     id: "328813c5-f63b-471f-9660-dfe679cdc707",
@@ -316,7 +316,7 @@ export const articles = [
     title: "Pharmacist",
     text: "Unspecified astigmatism, left eye",
     type: "Shopping",
-    url: "http://dummyimage.com/208x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/208x100.png/ff4444/ffffff",
   },
   {
     id: "3166a77c-9673-4057-9538-353c854910d8",
@@ -327,7 +327,7 @@ export const articles = [
     title: "Systems Administrator II",
     text: "Rheumatoid arthritis without rheumatoid factor, unspecified hand",
     type: "Business",
-    url: "http://dummyimage.com/151x100.png/dddddd/000000",
+    url: "https://dummyimage.com/151x100.png/dddddd/000000",
   },
   {
     id: "28cebe1b-2987-4715-b1f2-1f837ff0bd65",
@@ -338,7 +338,7 @@ export const articles = [
     title: "Dental Hygienist",
     text: "Displaced fracture of olecranon process without intraarticular extension of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",
     type: "Shopping",
-    url: "http://dummyimage.com/121x100.png/dddddd/000000",
+    url: "https://dummyimage.com/121x100.png/dddddd/000000",
   },
   {
     id: "71f88b64-040c-4bcc-8190-92d2cf09b44b",
@@ -349,7 +349,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Military operation involving other effects of nuclear weapons, civilian, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/154x100.png/dddddd/000000",
+    url: "https://dummyimage.com/154x100.png/dddddd/000000",
   },
   {
     id: "e79bb383-ccc7-42a2-b125-399860a09823",
@@ -360,7 +360,7 @@ export const articles = [
     title: "Professor",
     text: "Nondisplaced spiral fracture of shaft of ulna, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/204x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/204x100.png/cc0000/ffffff",
   },
   {
     id: "9f493951-dfc7-481d-b0c1-902033b1cddc",
@@ -371,7 +371,7 @@ export const articles = [
     title: "Media Manager III",
     text: "Chorioamnionitis, second trimester, fetus 1",
     type: "Shopping",
-    url: "http://dummyimage.com/186x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/186x100.png/cc0000/ffffff",
   },
   {
     id: "1819a77f-78fc-40ce-bac8-19a4dbe32e97",
@@ -382,7 +382,7 @@ export const articles = [
     title: "Graphic Designer",
     text: "Focal chorioretinal inflammation, macular or paramacular",
     type: "Business",
-    url: "http://dummyimage.com/139x100.png/dddddd/000000",
+    url: "https://dummyimage.com/139x100.png/dddddd/000000",
   },
   {
     id: "f40ead62-fd8e-4f22-a3c2-a93294db9105",
@@ -393,7 +393,7 @@ export const articles = [
     title: "Nuclear Power Engineer",
     text: "Displaced apophyseal fracture of right femur, initial encounter for open fracture type I or II",
     type: "Business",
-    url: "http://dummyimage.com/173x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/173x100.png/cc0000/ffffff",
   },
   {
     id: "5550cd18-919d-43d3-8001-0d601c0ec9f8",
@@ -404,7 +404,7 @@ export const articles = [
     title: "Librarian",
     text: "Carpal tunnel syndrome, unspecified upper limb",
     type: "Finance",
-    url: "http://dummyimage.com/122x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/122x100.png/ff4444/ffffff",
   },
   {
     id: "28656ca4-d4ec-4106-bbd3-3659157aafa6",
@@ -415,7 +415,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Person on outside of car injured in collision with fixed or stationary object in nontraffic accident, sequela",
     type: "Business",
-    url: "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/164x100.png/5fa2dd/ffffff",
   },
   {
     id: "9e0509bd-0727-43ed-a706-ae67b0e7f40a",
@@ -426,7 +426,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Alcoholic hepatic failure",
     type: "Business",
-    url: "http://dummyimage.com/150x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/150x100.png/cc0000/ffffff",
   },
   {
     id: "0d3bd66d-86b8-4442-af41-1306c0edd7b9",
@@ -437,7 +437,7 @@ export const articles = [
     title: "Design Engineer",
     text: "Other specified osteochondropathies, unspecified lower leg",
     type: "Business",
-    url: "http://dummyimage.com/242x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/242x100.png/cc0000/ffffff",
   },
   {
     id: "fe563930-d9a5-4985-b1ea-f971f2ae2e1f",
@@ -448,7 +448,7 @@ export const articles = [
     title: "Research Nurse",
     text: "Poisoning by therapeutic gases, intentional self-harm",
     type: "Finance",
-    url: "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/193x100.png/5fa2dd/ffffff",
   },
   {
     id: "6ae875b5-3154-408c-9e0c-9b2f4d490fe4",
@@ -459,7 +459,7 @@ export const articles = [
     title: "VP Product Management",
     text: "Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle (traffic)",
     type: "Business",
-    url: "http://dummyimage.com/163x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/163x100.png/ff4444/ffffff",
   },
   {
     id: "2aaa2ee7-ddaf-45cf-a098-90a3b5531f54",
@@ -470,7 +470,7 @@ export const articles = [
     title: "Account Executive",
     text: "Nondisplaced osteochondral fracture of left patella, subsequent encounter for closed fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/201x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/201x100.png/cc0000/ffffff",
   },
   {
     id: "798cca3d-6532-456d-929c-b6289676e756",
@@ -481,7 +481,7 @@ export const articles = [
     title: "Nuclear Power Engineer",
     text: "Unspecified injury of other blood vessels at ankle and foot level, right leg",
     type: "Business",
-    url: "http://dummyimage.com/118x100.png/dddddd/000000",
+    url: "https://dummyimage.com/118x100.png/dddddd/000000",
   },
   {
     id: "d6a3b547-68fc-48e4-989c-a2920358fce3",
@@ -492,7 +492,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Malignant neoplasm of left orbit",
     type: "Shopping",
-    url: "http://dummyimage.com/179x100.png/dddddd/000000",
+    url: "https://dummyimage.com/179x100.png/dddddd/000000",
   },
   {
     id: "63ab5f7a-a582-4342-a108-6c441a4d6467",
@@ -503,7 +503,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Stenosis due to internal orthopedic prosthetic devices, implants and grafts",
     type: "Finance",
-    url: "http://dummyimage.com/190x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/190x100.png/ff4444/ffffff",
   },
   {
     id: "6b49ed24-4300-44fe-b016-e94bd07b4f21",
@@ -514,7 +514,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Subluxation of distal interphalangeal joint of left middle finger, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/162x100.png/dddddd/000000",
+    url: "https://dummyimage.com/162x100.png/dddddd/000000",
   },
   {
     id: "6321307b-318b-4b04-a5fa-2abecb9137b5",
@@ -525,7 +525,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Accidental discharge of other gas, air or spring-operated gun",
     type: "Shopping",
-    url: "http://dummyimage.com/119x100.png/dddddd/000000",
+    url: "https://dummyimage.com/119x100.png/dddddd/000000",
   },
   {
     id: "1bdbe103-1ab0-46b9-b72b-8285cce9d0f1",
@@ -536,7 +536,7 @@ export const articles = [
     title: "Software Test Engineer I",
     text: "Pedestrian on other pedestrian conveyance colliding with stationary object, sequela",
     type: "Business",
-    url: "http://dummyimage.com/198x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/198x100.png/5fa2dd/ffffff",
   },
   {
     id: "99d4b7bc-f170-44a9-acfe-e187ba32d977",
@@ -547,7 +547,7 @@ export const articles = [
     title: "Nurse",
     text: "Driver of heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/236x100.png/dddddd/000000",
+    url: "https://dummyimage.com/236x100.png/dddddd/000000",
   },
   {
     id: "9b3980e6-7c11-4f2b-a7ea-0b7115657035",
@@ -558,7 +558,7 @@ export const articles = [
     title: "Project Manager",
     text: "Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of anus (ASC-H)",
     type: "Finance",
-    url: "http://dummyimage.com/236x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/236x100.png/cc0000/ffffff",
   },
   {
     id: "98cafc46-3aee-4f11-a432-46921eaea11b",
@@ -569,7 +569,7 @@ export const articles = [
     title: "Physical Therapy Assistant",
     text: "Laceration of bronchus, unilateral, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/219x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/219x100.png/5fa2dd/ffffff",
   },
   {
     id: "bd12f86f-17f3-4062-90f7-016e57a58470",
@@ -580,7 +580,7 @@ export const articles = [
     title: "Geological Engineer",
     text: "Clutton's joints",
     type: "Shopping",
-    url: "http://dummyimage.com/175x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/175x100.png/ff4444/ffffff",
   },
   {
     id: "7d609091-38d9-41af-b9e8-34d8c51f7362",
@@ -591,7 +591,7 @@ export const articles = [
     title: "Staff Scientist",
     text: "Stress fracture, hip, unspecified, subsequent encounter for fracture with routine healing",
     type: "Shopping",
-    url: "http://dummyimage.com/182x100.png/dddddd/000000",
+    url: "https://dummyimage.com/182x100.png/dddddd/000000",
   },
   {
     id: "c83003a3-4cdd-43f4-8af4-ea7e19ad1648",
@@ -602,7 +602,7 @@ export const articles = [
     title: "Research Nurse",
     text: "Anterior displaced fracture of sternal end of right clavicle",
     type: "Shopping",
-    url: "http://dummyimage.com/118x100.png/dddddd/000000",
+    url: "https://dummyimage.com/118x100.png/dddddd/000000",
   },
   {
     id: "5ef5f584-0b08-4c88-a1bb-73d25797b854",
@@ -613,7 +613,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Type I occipital condyle fracture, right side, initial encounter for open fracture",
     type: "Finance",
-    url: "http://dummyimage.com/222x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/222x100.png/5fa2dd/ffffff",
   },
   {
     id: "a7fc2fa9-f30f-48a0-bc21-eaf0c92baaa6",
@@ -624,7 +624,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Fracture of unspecified metatarsal bone(s), left foot, subsequent encounter for fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/139x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/139x100.png/cc0000/ffffff",
   },
   {
     id: "7f616d42-c5a1-447e-b84f-7389fa3ec445",
@@ -635,7 +635,7 @@ export const articles = [
     title: "Programmer Analyst II",
     text: "Unspecified injury of blood vessel of left middle finger, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/245x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/245x100.png/ff4444/ffffff",
   },
   {
     id: "75b89ca6-35ce-405b-b6c4-2f5f605fbf75",
@@ -646,7 +646,7 @@ export const articles = [
     title: "Financial Analyst",
     text: "Poisoning by antipruritics, intentional self-harm",
     type: "Shopping",
-    url: "http://dummyimage.com/149x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/149x100.png/cc0000/ffffff",
   },
   {
     id: "ae46266e-2de0-44b3-84a0-8e6f1f4d55c6",
@@ -657,7 +657,7 @@ export const articles = [
     title: "Teacher",
     text: "Open bite of right breast",
     type: "Finance",
-    url: "http://dummyimage.com/246x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/246x100.png/ff4444/ffffff",
   },
   {
     id: "c3d37dc8-c95f-48b6-a0be-e36785b26eba",
@@ -668,7 +668,7 @@ export const articles = [
     title: "Help Desk Operator",
     text: "Lead-induced chronic gout, vertebrae",
     type: "Business",
-    url: "http://dummyimage.com/110x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/110x100.png/cc0000/ffffff",
   },
   {
     id: "d6c36e04-3257-4c10-9f1b-3249b9f9a75a",
@@ -679,7 +679,7 @@ export const articles = [
     title: "Electrical Engineer",
     text: "Fall from, out of or through window, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/242x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/242x100.png/ff4444/ffffff",
   },
   {
     id: "f11983b3-c0de-497c-ade8-28d723d90918",
@@ -690,7 +690,7 @@ export const articles = [
     title: "Computer Systems Analyst III",
     text: "Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",
     type: "Finance",
-    url: "http://dummyimage.com/192x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/192x100.png/ff4444/ffffff",
   },
   {
     id: "0f7de165-d6a0-4233-afae-3a0e17450092",
@@ -701,7 +701,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Pathological fracture, right tibia, subsequent encounter for fracture with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/249x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/249x100.png/cc0000/ffffff",
   },
   {
     id: "3c7dc15d-389e-4ea1-91a9-05998abb553f",
@@ -712,7 +712,7 @@ export const articles = [
     title: "Engineer II",
     text: "Other malformation of placenta, first trimester",
     type: "Business",
-    url: "http://dummyimage.com/133x100.png/dddddd/000000",
+    url: "https://dummyimage.com/133x100.png/dddddd/000000",
   },
   {
     id: "5ef54e31-0d71-4906-b8ce-bb7de2dc105e",
@@ -723,7 +723,7 @@ export const articles = [
     title: "Programmer Analyst I",
     text: "Laceration of tail of pancreas, unspecified degree, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/188x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/188x100.png/5fa2dd/ffffff",
   },
   {
     id: "0a166298-2bf8-4c74-bb2a-c70ee34f4ceb",
@@ -734,7 +734,7 @@ export const articles = [
     title: "Operator",
     text: "Laceration without foreign body of abdominal wall, left lower quadrant without penetration into peritoneal cavity, sequela",
     type: "Business",
-    url: "http://dummyimage.com/173x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/173x100.png/5fa2dd/ffffff",
   },
   {
     id: "bb9e10a6-9e42-4582-aeaf-a83895257035",
@@ -745,7 +745,7 @@ export const articles = [
     title: "Web Developer IV",
     text: "Displaced apophyseal fracture of unspecified femur, subsequent encounter for open fracture type I or II with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/167x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/167x100.png/cc0000/ffffff",
   },
   {
     id: "d82b40e6-6b9a-4de5-a375-27d80f66c717",
@@ -756,7 +756,7 @@ export const articles = [
     title: "Product Engineer",
     text: "Fibroadenosis of left breast",
     type: "Finance",
-    url: "http://dummyimage.com/105x100.png/dddddd/000000",
+    url: "https://dummyimage.com/105x100.png/dddddd/000000",
   },
   {
     id: "4430bab3-80fd-4b34-9d17-26ea56ef04d6",
@@ -767,7 +767,7 @@ export const articles = [
     title: "Internal Auditor",
     text: "Glasgow coma scale score 9-12, at arrival to emergency department",
     type: "Shopping",
-    url: "http://dummyimage.com/211x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/211x100.png/5fa2dd/ffffff",
   },
   {
     id: "e43dbcd4-b35e-4b71-8f88-9ed403ac36f4",
@@ -778,7 +778,7 @@ export const articles = [
     title: "Community Outreach Specialist",
     text: "Osteoarthritis of first carpometacarpal joint",
     type: "Business",
-    url: "http://dummyimage.com/222x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/222x100.png/ff4444/ffffff",
   },
   {
     id: "81822074-3fdc-4e4a-9b7a-d27d40796590",
@@ -789,7 +789,7 @@ export const articles = [
     title: "Associate Professor",
     text: "Osteonecrosis due to previous trauma, humerus",
     type: "Business",
-    url: "http://dummyimage.com/118x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/118x100.png/cc0000/ffffff",
   },
   {
     id: "c13ef9eb-affe-4d76-93c7-2992c2962ecc",
@@ -800,7 +800,7 @@ export const articles = [
     title: "Editor",
     text: "Malignant neoplasm of right lacrimal gland and duct",
     type: "Shopping",
-    url: "http://dummyimage.com/214x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/214x100.png/5fa2dd/ffffff",
   },
   {
     id: "282351e7-497f-4b32-9299-831b3df764e5",
@@ -811,7 +811,7 @@ export const articles = [
     title: "Software Engineer II",
     text: "Unspecified fracture of shaft of left ulna, sequela",
     type: "Business",
-    url: "http://dummyimage.com/142x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/142x100.png/5fa2dd/ffffff",
   },
   {
     id: "0811c285-a656-4d52-9c6f-f27d7e286845",
@@ -822,7 +822,7 @@ export const articles = [
     title: "Cost Accountant",
     text: "Displaced transverse fracture of unspecified acetabulum, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/151x100.png/5fa2dd/ffffff",
   },
   {
     id: "131a6d46-5af0-4b49-9c2e-5bab79f7f0f8",
@@ -833,7 +833,7 @@ export const articles = [
     title: "Physical Therapy Assistant",
     text: "Poisoning by predominantly alpha-adrenoreceptor agonists, assault, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/231x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/231x100.png/ff4444/ffffff",
   },
   {
     id: "78060e8d-639b-4af3-b71a-e25051eb1a2a",
@@ -844,7 +844,7 @@ export const articles = [
     title: "Accounting Assistant II",
     text: "Other injury of muscle, fascia and tendon of long head of biceps",
     type: "Shopping",
-    url: "http://dummyimage.com/127x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/127x100.png/5fa2dd/ffffff",
   },
   {
     id: "02861867-f7c6-4203-b983-80c3fb1554bb",
@@ -855,7 +855,7 @@ export const articles = [
     title: "Dental Hygienist",
     text: "Secondary lacrimal gland atrophy, unspecified lacrimal gland",
     type: "Finance",
-    url: "http://dummyimage.com/151x100.png/dddddd/000000",
+    url: "https://dummyimage.com/151x100.png/dddddd/000000",
   },
   {
     id: "82acebc6-76f0-4650-bb45-da0ae728b914",
@@ -866,7 +866,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Meningococcal heart disease",
     type: "Shopping",
-    url: "http://dummyimage.com/248x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/248x100.png/ff4444/ffffff",
   },
   {
     id: "f4a8d241-d735-4c37-9b46-dd0770a2699f",
@@ -877,7 +877,7 @@ export const articles = [
     title: "Quality Control Specialist",
     text: "Burn of first degree of left ankle, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/203x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/203x100.png/cc0000/ffffff",
   },
   {
     id: "c947f4d5-5569-4d97-940e-aad581fe38d6",
@@ -888,7 +888,7 @@ export const articles = [
     title: "Account Representative I",
     text: "Toxic effect of lacrimogenic gas, accidental (unintentional), initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/137x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/137x100.png/ff4444/ffffff",
   },
   {
     id: "016323e7-8b48-4cb1-9e67-fd48ca2c61ee",
@@ -899,7 +899,7 @@ export const articles = [
     title: "Operator",
     text: "Nondisplaced Type II dens fracture, subsequent encounter for fracture with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/165x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/165x100.png/cc0000/ffffff",
   },
   {
     id: "a8c946bb-7fc3-4230-819a-6b6bf5044bd6",
@@ -910,7 +910,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Burns involving 70-79% of body surface with 10-19% third degree burns",
     type: "Shopping",
-    url: "http://dummyimage.com/233x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/233x100.png/ff4444/ffffff",
   },
   {
     id: "b142fc4c-5fd5-4fcf-af6e-bbd038aa16ee",
@@ -921,7 +921,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Thrombosis due to nervous system prosthetic devices, implants and grafts, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/195x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/195x100.png/5fa2dd/ffffff",
   },
   {
     id: "e6e16633-8af1-4125-9b8c-752bd52e4403",
@@ -932,7 +932,7 @@ export const articles = [
     title: "Design Engineer",
     text: "Fistula, left elbow",
     type: "Business",
-    url: "http://dummyimage.com/155x100.png/dddddd/000000",
+    url: "https://dummyimage.com/155x100.png/dddddd/000000",
   },
   {
     id: "0e877177-a22b-4e1c-89be-4da6078c69bf",
@@ -943,7 +943,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Other superficial injuries of hip",
     type: "Shopping",
-    url: "http://dummyimage.com/184x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/184x100.png/5fa2dd/ffffff",
   },
   {
     id: "16f6bba0-df97-416e-ab71-e56e223330ca",
@@ -954,7 +954,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Nondisplaced segmental fracture of shaft of right fibula, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/118x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/118x100.png/cc0000/ffffff",
   },
   {
     id: "ba74b30e-5d91-4c30-89fc-863626c44591",
@@ -965,7 +965,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Other injury due to other accident to merchant ship, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/113x100.png/5fa2dd/ffffff",
   },
   {
     id: "4b48a032-a21f-4501-aa84-3c8d8f7c985c",
@@ -976,7 +976,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Abrasion of upper arm",
     type: "Business",
-    url: "http://dummyimage.com/205x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/205x100.png/ff4444/ffffff",
   },
   {
     id: "283ffd4d-7a4f-49a2-afd6-ecc226f78cdb",
@@ -987,7 +987,7 @@ export const articles = [
     title: "Help Desk Operator",
     text: "Motorcycle driver injured in collision with other motor vehicles in nontraffic accident",
     type: "Business",
-    url: "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/243x100.png/5fa2dd/ffffff",
   },
   {
     id: "363061bf-b0e2-4769-8370-9b2162269c39",
@@ -998,7 +998,7 @@ export const articles = [
     title: "Geological Engineer",
     text: "Unspecified open wound of other specified part of neck, sequela",
     type: "Business",
-    url: "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/237x100.png/5fa2dd/ffffff",
   },
   {
     id: "7b92ca6b-5b26-4a8c-b397-f241b1ee4a16",
@@ -1009,7 +1009,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Salter-Harris Type I physeal fracture of lower end of left femur, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/208x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/208x100.png/5fa2dd/ffffff",
   },
   {
     id: "0e6a1253-a202-4a90-abf3-585dbe03804e",
@@ -1020,7 +1020,7 @@ export const articles = [
     title: "Payment Adjustment Coordinator",
     text: "Falling, lying or running before or into moving object, undetermined intent, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/143x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/143x100.png/ff4444/ffffff",
   },
   {
     id: "c17e178a-a70d-486e-a6e4-3f50cd50b14b",
@@ -1031,7 +1031,7 @@ export const articles = [
     title: "Recruiter",
     text: "Pain in lower leg",
     type: "Business",
-    url: "http://dummyimage.com/245x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/245x100.png/ff4444/ffffff",
   },
   {
     id: "06516605-00ef-4c7b-89d5-dc76cb0d3c3e",
@@ -1042,7 +1042,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Unspecified fracture of upper end of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/148x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/148x100.png/ff4444/ffffff",
   },
   {
     id: "5d9e45e6-7334-4a8b-bc4b-5e1b9b57fb4a",
@@ -1053,7 +1053,7 @@ export const articles = [
     title: "Project Manager",
     text: "Atypical femoral fracture, unspecified, subsequent encounter for fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/240x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/240x100.png/ff4444/ffffff",
   },
   {
     id: "be4a3393-224d-493b-b5f2-c568242d16da",
@@ -1064,7 +1064,7 @@ export const articles = [
     title: "Editor",
     text: "Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of unspecified duration",
     type: "Shopping",
-    url: "http://dummyimage.com/203x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/203x100.png/cc0000/ffffff",
   },
   {
     id: "225a8c83-96e7-47f4-8538-1c1921291066",
@@ -1075,7 +1075,7 @@ export const articles = [
     title: "Social Worker",
     text: "Corrosion of second degree of thigh",
     type: "Shopping",
-    url: "http://dummyimage.com/126x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/126x100.png/ff4444/ffffff",
   },
   {
     id: "6d5efe40-e5c2-4bd9-916c-9682741be37a",
@@ -1086,7 +1086,7 @@ export const articles = [
     title: "Safety Technician III",
     text: "Fracture of humerus following insertion of orthopedic implant, joint prosthesis, or bone plate",
     type: "Finance",
-    url: "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/115x100.png/5fa2dd/ffffff",
   },
   {
     id: "509c075c-163d-489e-b7e5-b3519c345f12",
@@ -1097,7 +1097,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Other fracture of shaft of right tibia, subsequent encounter for closed fracture with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/230x100.png/5fa2dd/ffffff",
   },
   {
     id: "131fd660-7d8c-4ec0-851a-bf1bab3613ac",
@@ -1108,7 +1108,7 @@ export const articles = [
     title: "VP Accounting",
     text: "Other specified injury of middle and inner ear",
     type: "Shopping",
-    url: "http://dummyimage.com/142x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/142x100.png/cc0000/ffffff",
   },
   {
     id: "5e4a17d8-78e7-4fe6-a5d7-89466214d85b",
@@ -1119,7 +1119,7 @@ export const articles = [
     title: "Electrical Engineer",
     text: "Loose body in left hip",
     type: "Finance",
-    url: "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/241x100.png/5fa2dd/ffffff",
   },
   {
     id: "95ce68dd-e90c-4f08-831e-decbdbef1718",
@@ -1130,7 +1130,7 @@ export const articles = [
     title: "Quality Engineer",
     text: "Toxic effect of phenol and phenol homologues, assault, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/221x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/221x100.png/cc0000/ffffff",
   },
   {
     id: "e4b9b054-c4fa-424c-933f-cde9926971c2",
@@ -1141,7 +1141,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Unspecified epiphora, left lacrimal gland",
     type: "Business",
-    url: "http://dummyimage.com/133x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/133x100.png/ff4444/ffffff",
   },
   {
     id: "2139ab5a-bca0-426f-98a8-0d7989be5910",
@@ -1152,7 +1152,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Episodic cluster headache",
     type: "Shopping",
-    url: "http://dummyimage.com/239x100.png/dddddd/000000",
+    url: "https://dummyimage.com/239x100.png/dddddd/000000",
   },
   {
     id: "6c5e0569-6ad1-43f8-b35d-c76b6a8aed19",
@@ -1163,7 +1163,7 @@ export const articles = [
     title: "Data Coordiator",
     text: "Crushing injury of unspecified thigh",
     type: "Finance",
-    url: "http://dummyimage.com/137x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/137x100.png/cc0000/ffffff",
   },
   {
     id: "e5f3c1ab-f5ae-4fd1-889b-a783545bbff6",
@@ -1174,7 +1174,7 @@ export const articles = [
     title: "Analog Circuit Design manager",
     text: "Nondisplaced fracture of lateral condyle of right femur, subsequent encounter for open fracture type I or II with delayed healing",
     type: "Finance",
-    url: "http://dummyimage.com/157x100.png/dddddd/000000",
+    url: "https://dummyimage.com/157x100.png/dddddd/000000",
   },
   {
     id: "a0ede9e7-0686-4b29-a84a-2e4716ffbc28",
@@ -1185,7 +1185,7 @@ export const articles = [
     title: "Operator",
     text: "Other superficial bite, right lower leg, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/126x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/126x100.png/cc0000/ffffff",
   },
   {
     id: "3a697f28-619d-4b3b-bd9b-07fd68f7e26c",
@@ -1196,7 +1196,7 @@ export const articles = [
     title: "Analyst Programmer",
     text: "Unspecified fracture of fifth metacarpal bone, left hand, initial encounter for closed fracture",
     type: "Finance",
-    url: "http://dummyimage.com/239x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/239x100.png/ff4444/ffffff",
   },
   {
     id: "ac788aaf-4c02-44d6-ba19-af156896968d",
@@ -1207,7 +1207,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Poisoning by, adverse effect of and underdosing of other hormones and synthetic substitutes",
     type: "Finance",
-    url: "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/216x100.png/5fa2dd/ffffff",
   },
   {
     id: "c3a27044-277d-4308-be19-117d89b67a93",
@@ -1218,7 +1218,7 @@ export const articles = [
     title: "Human Resources Assistant II",
     text: "Monoplegia of lower limb following cerebral infarction",
     type: "Shopping",
-    url: "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/237x100.png/5fa2dd/ffffff",
   },
   {
     id: "1f367d03-34ed-4245-bce1-060013e5a51f",
@@ -1229,7 +1229,7 @@ export const articles = [
     title: "Automation Specialist I",
     text: "Infarction of spleen",
     type: "Shopping",
-    url: "http://dummyimage.com/102x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/102x100.png/cc0000/ffffff",
   },
   {
     id: "fa099b4b-df7a-4355-b434-015e9ac01ad6",
@@ -1240,7 +1240,7 @@ export const articles = [
     title: "Legal Assistant",
     text: "Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/227x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/227x100.png/5fa2dd/ffffff",
   },
   {
     id: "905204dd-2063-4f42-b44f-1c4e85f9f190",
@@ -1251,7 +1251,7 @@ export const articles = [
     title: "Sales Associate",
     text: "Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization",
     type: "Shopping",
-    url: "http://dummyimage.com/231x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/231x100.png/cc0000/ffffff",
   },
   {
     id: "318a75a6-f1ad-4720-90be-440d4b1aa7cd",
@@ -1262,7 +1262,7 @@ export const articles = [
     title: "Chemical Engineer",
     text: "Type III occipital condyle fracture, left side, subsequent encounter for fracture with routine healing",
     type: "Shopping",
-    url: "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/199x100.png/5fa2dd/ffffff",
   },
   {
     id: "4ac1d82e-5280-4049-b0c5-1e2d47e81382",
@@ -1273,7 +1273,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Other glider (nonpowered) accident injuring occupant, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/183x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/183x100.png/cc0000/ffffff",
   },
   {
     id: "52740513-1c77-4f26-a8e0-f80cd87f06f8",
@@ -1284,7 +1284,7 @@ export const articles = [
     title: "Cost Accountant",
     text: "Polycystic ovarian syndrome",
     type: "Shopping",
-    url: "http://dummyimage.com/178x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/178x100.png/ff4444/ffffff",
   },
   {
     id: "ec03199b-6b75-47f4-ba87-47cd50830f94",
@@ -1295,7 +1295,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Complete traumatic amputation of right hand at wrist level, initial encounter",
     type: "Finance",
-    url: "http://dummyimage.com/172x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/172x100.png/5fa2dd/ffffff",
   },
   {
     id: "84012e4e-61d6-415b-902a-8ab370a282ea",
@@ -1306,7 +1306,7 @@ export const articles = [
     title: "Nuclear Power Engineer",
     text: "Bone donor, unspecified",
     type: "Shopping",
-    url: "http://dummyimage.com/185x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/185x100.png/5fa2dd/ffffff",
   },
   {
     id: "b366b911-2190-495b-b7f4-fcaaf5951532",
@@ -1317,7 +1317,7 @@ export const articles = [
     title: "Web Designer III",
     text: "Other nondisplaced fracture of base of first metacarpal bone, unspecified hand, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/104x100.png/ff4444/ffffff",
   },
   {
     id: "0b083c48-3448-4252-9a89-cbf67e45e766",
@@ -1328,7 +1328,7 @@ export const articles = [
     title: "Civil Engineer",
     text: "Gestational proteinuria",
     type: "Shopping",
-    url: "http://dummyimage.com/154x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/154x100.png/cc0000/ffffff",
   },
   {
     id: "ced39222-9dab-45a1-8ec6-731dbb03f8cb",
@@ -1339,7 +1339,7 @@ export const articles = [
     title: "Civil Engineer",
     text: "Poisoning by methylphenidate, intentional self-harm, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/139x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/139x100.png/ff4444/ffffff",
   },
   {
     id: "0229fd80-9663-4b3c-97dc-6bf39f6e0195",
@@ -1350,7 +1350,7 @@ export const articles = [
     title: "Chemical Engineer",
     text: "Torus fracture of upper end of left fibula, subsequent encounter for fracture with routine healing",
     type: "Finance",
-    url: "http://dummyimage.com/216x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/216x100.png/cc0000/ffffff",
   },
   {
     id: "3553e82c-a7bd-46c9-9bcc-72f6a79b5906",
@@ -1361,7 +1361,7 @@ export const articles = [
     title: "Structural Analysis Engineer",
     text: "Age-related osteoporosis with current pathological fracture, right hand, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/111x100.png/dddddd/000000",
+    url: "https://dummyimage.com/111x100.png/dddddd/000000",
   },
   {
     id: "96970497-69e6-46c5-837f-001b31dca7e4",
@@ -1372,7 +1372,7 @@ export const articles = [
     title: "Quality Control Specialist",
     text: "Scleromalacia perforans, right eye",
     type: "Business",
-    url: "http://dummyimage.com/176x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/176x100.png/5fa2dd/ffffff",
   },
   {
     id: "2bc919b2-23f9-4a3e-922c-c74572557f24",
@@ -1383,7 +1383,7 @@ export const articles = [
     title: "General Manager",
     text: "Disorders of ketone metabolism",
     type: "Business",
-    url: "http://dummyimage.com/164x100.png/dddddd/000000",
+    url: "https://dummyimage.com/164x100.png/dddddd/000000",
   },
   {
     id: "8a7dd58d-0e7b-4a16-91c6-4e92f4eaaa82",
@@ -1394,7 +1394,7 @@ export const articles = [
     title: "Structural Engineer",
     text: "War operations involving explosion of unspecified marine weapon, civilian, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/213x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/213x100.png/5fa2dd/ffffff",
   },
   {
     id: "a2db0d66-edca-4d77-9228-7d2c6f8d8566",
@@ -1405,7 +1405,7 @@ export const articles = [
     title: "Software Engineer I",
     text: "Pathological fracture in neoplastic disease, left fibula, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/155x100.png/dddddd/000000",
+    url: "https://dummyimage.com/155x100.png/dddddd/000000",
   },
   {
     id: "006c505a-9f07-42c2-9f3c-f729add1511e",
@@ -1416,7 +1416,7 @@ export const articles = [
     title: "Media Manager III",
     text: "Spontaneous rupture of flexor tendons, left hand",
     type: "Shopping",
-    url: "http://dummyimage.com/149x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/149x100.png/5fa2dd/ffffff",
   },
   {
     id: "4bb623c6-7fb6-402c-a6d5-e8d540ddb925",
@@ -1427,7 +1427,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Insect bite (nonvenomous) of right forearm, sequela",
     type: "Business",
-    url: "http://dummyimage.com/120x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/120x100.png/cc0000/ffffff",
   },
   {
     id: "d148e57f-8fa4-4808-b239-d642d2eb9510",
@@ -1438,7 +1438,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Poisoning by other bacterial vaccines, accidental (unintentional), sequela",
     type: "Finance",
-    url: "http://dummyimage.com/172x100.png/dddddd/000000",
+    url: "https://dummyimage.com/172x100.png/dddddd/000000",
   },
   {
     id: "52bcec11-36a6-4161-b736-6689f4723138",
@@ -1449,7 +1449,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Intermittent hydrarthrosis, unspecified ankle and foot",
     type: "Business",
-    url: "http://dummyimage.com/111x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/111x100.png/ff4444/ffffff",
   },
   {
     id: "fa57ad13-91b4-415f-9155-d367c3495489",
@@ -1460,7 +1460,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Other interstitial and deep keratitis, unspecified eye",
     type: "Shopping",
-    url: "http://dummyimage.com/137x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/137x100.png/ff4444/ffffff",
   },
   {
     id: "c1082e29-6309-4c20-b372-9080029e0d95",
@@ -1471,7 +1471,7 @@ export const articles = [
     title: "Biostatistician III",
     text: "Other dermatophytoses",
     type: "Shopping",
-    url: "http://dummyimage.com/109x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/109x100.png/ff4444/ffffff",
   },
   {
     id: "3cfe3853-a059-4801-835e-6c6da8524a59",
@@ -1482,7 +1482,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Displaced transverse fracture of shaft of right femur",
     type: "Shopping",
-    url: "http://dummyimage.com/110x100.png/dddddd/000000",
+    url: "https://dummyimage.com/110x100.png/dddddd/000000",
   },
   {
     id: "62dd2842-5b66-4010-89e3-b2550ee3bed1",
@@ -1493,7 +1493,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "War operation involving nuclear radiation effects of nuclear weapon, civilian, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/243x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/243x100.png/ff4444/ffffff",
   },
   {
     id: "d70304c2-85c1-401f-a0b0-aa5eebca0256",
@@ -1504,7 +1504,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Displaced fracture of neck of fifth metacarpal bone, left hand, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/154x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/154x100.png/ff4444/ffffff",
   },
   {
     id: "5b816ea9-876e-4421-b726-c5a72d1615e6",
@@ -1515,7 +1515,7 @@ export const articles = [
     title: "Junior Executive",
     text: "Ophiasis",
     type: "Business",
-    url: "http://dummyimage.com/124x100.png/dddddd/000000",
+    url: "https://dummyimage.com/124x100.png/dddddd/000000",
   },
   {
     id: "952f5584-69a6-4ad1-8b9e-98247dbe28c7",
@@ -1526,7 +1526,7 @@ export const articles = [
     title: "Research Assistant III",
     text: "Striking against wall of swimming pool",
     type: "Finance",
-    url: "http://dummyimage.com/229x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/229x100.png/ff4444/ffffff",
   },
   {
     id: "96191ba1-7b03-4fae-b278-8d6ee0452052",
@@ -1537,7 +1537,7 @@ export const articles = [
     title: "Analyst Programmer",
     text: "Patellofemoral disorders, unspecified knee",
     type: "Finance",
-    url: "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/231x100.png/5fa2dd/ffffff",
   },
   {
     id: "3466133b-672b-4967-bf24-9ef823fe7e35",
@@ -1548,7 +1548,7 @@ export const articles = [
     title: "Web Developer IV",
     text: "Other edema specific to newborn",
     type: "Shopping",
-    url: "http://dummyimage.com/165x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/165x100.png/cc0000/ffffff",
   },
   {
     id: "45f7d552-e110-4de8-89b6-7f52e38547ab",
@@ -1559,7 +1559,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Pectus excavatum",
     type: "Business",
-    url: "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/169x100.png/5fa2dd/ffffff",
   },
   {
     id: "5ed47752-9eca-4e04-80a5-559336f49a18",
@@ -1570,7 +1570,7 @@ export const articles = [
     title: "Environmental Tech",
     text: "Unspecified injury of muscle and tendon of long flexor muscle of toe at ankle and foot level, left foot, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/236x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/236x100.png/5fa2dd/ffffff",
   },
   {
     id: "8c365f98-7a08-44ed-834a-7072f12d9361",
@@ -1581,7 +1581,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Late congenital syphilis, unspecified",
     type: "Shopping",
-    url: "http://dummyimage.com/127x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/127x100.png/ff4444/ffffff",
   },
   {
     id: "503c0b09-f7fd-4d8b-9b68-412d6e43d344",
@@ -1592,7 +1592,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Other mechanical complication of internal left hip prosthesis, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/190x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/190x100.png/cc0000/ffffff",
   },
   {
     id: "72ddbcf2-bac9-4566-b24b-883026d304ac",
@@ -1603,7 +1603,7 @@ export const articles = [
     title: "Internal Auditor",
     text: "Unspecified superficial injury of unspecified ankle, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/227x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/227x100.png/ff4444/ffffff",
   },
   {
     id: "c16749bf-65ea-44b0-bce2-a6d9c1bc7a2c",
@@ -1614,7 +1614,7 @@ export const articles = [
     title: "VP Accounting",
     text: "Unspecified fracture of left forearm, subsequent encounter for closed fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/111x100.png/5fa2dd/ffffff",
   },
   {
     id: "0ec010ee-e19f-4b01-8722-05d37bacb3d6",
@@ -1625,7 +1625,7 @@ export const articles = [
     title: "Web Developer III",
     text: "Traumatic compartment syndrome of left upper extremity, initial encounter",
     type: "Finance",
-    url: "http://dummyimage.com/105x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/105x100.png/ff4444/ffffff",
   },
   {
     id: "b0e0f2c2-af36-4559-986e-cf98173b2e72",
@@ -1636,7 +1636,7 @@ export const articles = [
     title: "Web Designer III",
     text: "Pedal cycle passenger injured in collision with other nonmotor vehicle in nontraffic accident, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/211x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/211x100.png/ff4444/ffffff",
   },
   {
     id: "71df2903-63e0-46ff-8b36-2af81ddc1cb3",
@@ -1647,7 +1647,7 @@ export const articles = [
     title: "Pharmacist",
     text: "Displaced fracture of lesser trochanter of right femur, initial encounter for closed fracture",
     type: "Business",
-    url: "http://dummyimage.com/191x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/191x100.png/cc0000/ffffff",
   },
   {
     id: "8c228d83-0ea1-4d95-ba6d-a5164be6363e",
@@ -1658,7 +1658,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Salter-Harris Type III physeal fracture of unspecified calcaneus, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/117x100.png/5fa2dd/ffffff",
   },
   {
     id: "6707b4e7-3bf7-496b-aa6e-4cf5844db1d8",
@@ -1669,7 +1669,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",
     type: "Shopping",
-    url: "http://dummyimage.com/144x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/144x100.png/5fa2dd/ffffff",
   },
   {
     id: "e1a2ac0a-6e28-43cc-a85f-2b6f5106f483",
@@ -1680,7 +1680,7 @@ export const articles = [
     title: "Engineer IV",
     text: "Nondisplaced fracture of medial condyle of unspecified tibia, subsequent encounter for open fracture type I or II with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/204x100.png/dddddd/000000",
+    url: "https://dummyimage.com/204x100.png/dddddd/000000",
   },
   {
     id: "c7e6103c-ca58-4837-8f2a-b6b5beeefd5b",
@@ -1691,7 +1691,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Spinal and epidural anesthesia-induced headache during labor and delivery",
     type: "Shopping",
-    url: "http://dummyimage.com/110x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/110x100.png/cc0000/ffffff",
   },
   {
     id: "f8cb72e4-4d6a-4577-8f06-78149a787565",
@@ -1702,7 +1702,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Toxic effect of tobacco cigarettes, undetermined",
     type: "Finance",
-    url: "http://dummyimage.com/235x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/235x100.png/cc0000/ffffff",
   },
   {
     id: "213f4b8e-40ce-4429-8957-f7ccdd0a25e4",
@@ -1713,7 +1713,7 @@ export const articles = [
     title: "Engineer IV",
     text: "Nondisplaced supracondylar fracture with intracondylar extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/237x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/237x100.png/cc0000/ffffff",
   },
   {
     id: "b1d49b14-f32b-484b-85d0-0ba5463d4f9a",
@@ -1724,7 +1724,7 @@ export const articles = [
     title: "Research Associate",
     text: "Nondisplaced fracture of proximal phalanx of right ring finger, subsequent encounter for fracture with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/160x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/160x100.png/5fa2dd/ffffff",
   },
   {
     id: "1ec08468-5c48-484f-b17f-1897798c2404",
@@ -1735,7 +1735,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Poisoning by iron and its compounds, intentional self-harm, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/190x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/190x100.png/ff4444/ffffff",
   },
   {
     id: "b173254d-7d97-48af-8d56-438b9df3ce8b",
@@ -1746,7 +1746,7 @@ export const articles = [
     title: "Account Representative I",
     text: "Nondisplaced apophyseal fracture of left femur, initial encounter for closed fracture",
     type: "Finance",
-    url: "http://dummyimage.com/202x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/202x100.png/ff4444/ffffff",
   },
   {
     id: "a493c96e-df87-46d5-a523-6ea4ef30c127",
@@ -1757,7 +1757,7 @@ export const articles = [
     title: "Staff Accountant II",
     text: "Fracture of symphysis of mandible, subsequent encounter for fracture with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/103x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/103x100.png/cc0000/ffffff",
   },
   {
     id: "176fa834-ed78-48e4-998a-b82d4f921717",
@@ -1768,7 +1768,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Fall from scooter (nonmotorized)",
     type: "Shopping",
-    url: "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/201x100.png/5fa2dd/ffffff",
   },
   {
     id: "51dda7e0-a903-4c8d-a4e7-9762e600f775",
@@ -1779,7 +1779,7 @@ export const articles = [
     title: "Associate Professor",
     text: "Unstable burst fracture of first thoracic vertebra, sequela",
     type: "Business",
-    url: "http://dummyimage.com/235x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/235x100.png/cc0000/ffffff",
   },
   {
     id: "bdfe55df-c141-48c9-a63e-fd65375fa3e6",
@@ -1790,7 +1790,7 @@ export const articles = [
     title: "Administrative Officer",
     text: "Other injury of other specified muscles, fascia and tendons at wrist and hand level, left hand, sequela",
     type: "Business",
-    url: "http://dummyimage.com/218x100.png/dddddd/000000",
+    url: "https://dummyimage.com/218x100.png/dddddd/000000",
   },
   {
     id: "864684ac-6bb3-44fa-be76-c0b52eb29f5f",
@@ -1801,7 +1801,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Unspecified fracture of unspecified patella, subsequent encounter for closed fracture with malunion",
     type: "Shopping",
-    url: "http://dummyimage.com/133x100.png/dddddd/000000",
+    url: "https://dummyimage.com/133x100.png/dddddd/000000",
   },
   {
     id: "e00c7c35-157d-47cf-b108-6f9328881a13",
@@ -1812,7 +1812,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Unspecified open wound, unspecified lower leg",
     type: "Shopping",
-    url: "http://dummyimage.com/183x100.png/dddddd/000000",
+    url: "https://dummyimage.com/183x100.png/dddddd/000000",
   },
   {
     id: "228a82c5-31e4-4176-82f4-f44d48149af2",
@@ -1823,7 +1823,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Other nondisplaced dens fracture, initial encounter for closed fracture",
     type: "Finance",
-    url: "http://dummyimage.com/145x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/145x100.png/cc0000/ffffff",
   },
   {
     id: "2486418b-8531-4536-89f4-461fb97c784c",
@@ -1834,7 +1834,7 @@ export const articles = [
     title: "Quality Engineer",
     text: "Burn of first degree of right shoulder",
     type: "Shopping",
-    url: "http://dummyimage.com/219x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/219x100.png/5fa2dd/ffffff",
   },
   {
     id: "d17e0b94-093a-49fe-8993-de563011382e",
@@ -1845,7 +1845,7 @@ export const articles = [
     title: "Editor",
     text: "Legal intervention involving other explosives, bystander injured, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/119x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/119x100.png/5fa2dd/ffffff",
   },
   {
     id: "cd39c6ae-2539-420c-8303-b8d29fb4d3dc",
@@ -1856,7 +1856,7 @@ export const articles = [
     title: "Librarian",
     text: "Other fracture of shaft of left ulna, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/184x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/184x100.png/5fa2dd/ffffff",
   },
   {
     id: "e3d4b79b-1da2-40f4-b171-0426c4da2a70",
@@ -1867,7 +1867,7 @@ export const articles = [
     title: "Engineer IV",
     text: "Laceration of superficial palmar arch of right hand, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/228x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/228x100.png/ff4444/ffffff",
   },
   {
     id: "838e8601-c96e-413d-8cc5-fdb79a41d6c4",
@@ -1878,7 +1878,7 @@ export const articles = [
     title: "Tax Accountant",
     text: "Displaced fracture of olecranon process with intraarticular extension of right ulna, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/233x100.png/dddddd/000000",
+    url: "https://dummyimage.com/233x100.png/dddddd/000000",
   },
   {
     id: "8f5651d4-07c7-49b0-b707-7fb32ebb963e",
@@ -1889,7 +1889,7 @@ export const articles = [
     title: "Programmer Analyst III",
     text: "Unspecified open wound of larynx",
     type: "Business",
-    url: "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/158x100.png/5fa2dd/ffffff",
   },
   {
     id: "e6e7f464-31b7-4e6b-ba55-9eea17537b4d",
@@ -1900,7 +1900,7 @@ export const articles = [
     title: "Dental Hygienist",
     text: "3-part fracture of surgical neck of right humerus, initial encounter for closed fracture",
     type: "Finance",
-    url: "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/249x100.png/5fa2dd/ffffff",
   },
   {
     id: "3da1050d-d2bb-4ebd-aedd-1aefabf93be8",
@@ -1911,7 +1911,7 @@ export const articles = [
     title: "VP Marketing",
     text: "Chorioamnionitis, second trimester, fetus 3",
     type: "Shopping",
-    url: "http://dummyimage.com/232x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/232x100.png/ff4444/ffffff",
   },
   {
     id: "293b83ff-c6e8-4ad0-995d-3cf6eb743bd3",
@@ -1922,7 +1922,7 @@ export const articles = [
     title: "Software Test Engineer III",
     text: "Other mechanical complication of internal fixation device of right femur, subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/189x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/189x100.png/cc0000/ffffff",
   },
   {
     id: "bfd254fd-f8df-4555-a8ae-80d3761fff75",
@@ -1933,7 +1933,7 @@ export const articles = [
     title: "Computer Systems Analyst III",
     text: "Other specified injury of superficial palmar arch of unspecified hand, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/137x100.png/dddddd/000000",
+    url: "https://dummyimage.com/137x100.png/dddddd/000000",
   },
   {
     id: "90bc5139-47fa-407c-8a4b-acd3e7bd0d9e",
@@ -1944,7 +1944,7 @@ export const articles = [
     title: "VP Sales",
     text: "Influenza due to unidentified influenza virus with otitis media",
     type: "Business",
-    url: "http://dummyimage.com/205x100.png/dddddd/000000",
+    url: "https://dummyimage.com/205x100.png/dddddd/000000",
   },
   {
     id: "ccfabe7f-bcce-4788-ba78-c4813646f0f7",
@@ -1955,7 +1955,7 @@ export const articles = [
     title: "Help Desk Operator",
     text: "Motor neuron disease, unspecified",
     type: "Business",
-    url: "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/136x100.png/5fa2dd/ffffff",
   },
   {
     id: "e3cf5387-d519-40e5-8eab-fc193f4f2086",
@@ -1966,7 +1966,7 @@ export const articles = [
     title: "Quality Engineer",
     text: "Breakdown (mechanical) of intraperitoneal dialysis catheter",
     type: "Shopping",
-    url: "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/131x100.png/5fa2dd/ffffff",
   },
   {
     id: "eb0f5fd3-57ca-4eb5-9bdf-bcc724d69652",
@@ -1977,7 +1977,7 @@ export const articles = [
     title: "Senior Cost Accountant",
     text: "Other injury of flexor muscle, fascia and tendon of left thumb at forearm level, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/137x100.png/dddddd/000000",
+    url: "https://dummyimage.com/137x100.png/dddddd/000000",
   },
   {
     id: "fcdee948-9603-4f43-804f-ca6f76b227a4",
@@ -1988,7 +1988,7 @@ export const articles = [
     title: "Professor",
     text: "Unspecified fracture of right femur, initial encounter for closed fracture",
     type: "Business",
-    url: "http://dummyimage.com/149x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/149x100.png/cc0000/ffffff",
   },
   {
     id: "886b28d2-6657-4a61-8ba1-d086bffe4d11",
@@ -1999,7 +1999,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Breakdown (mechanical) of internal fixation device of other bones, sequela",
     type: "Business",
-    url: "http://dummyimage.com/217x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/217x100.png/5fa2dd/ffffff",
   },
   {
     id: "3228c7ab-bc5f-4bd3-9324-f7e96f16023b",
@@ -2010,7 +2010,7 @@ export const articles = [
     title: "Tax Accountant",
     text: "Acute oophoritis",
     type: "Business",
-    url: "http://dummyimage.com/188x100.png/dddddd/000000",
+    url: "https://dummyimage.com/188x100.png/dddddd/000000",
   },
   {
     id: "13b04dcc-c356-4549-aa78-5828b2dc4488",
@@ -2021,7 +2021,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Benign neoplasm of other and unspecified endocrine glands",
     type: "Finance",
-    url: "http://dummyimage.com/224x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/224x100.png/cc0000/ffffff",
   },
   {
     id: "d9d66a1c-32d6-44b2-aec9-610983dc56b3",
@@ -2032,7 +2032,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Unspecified superficial injury of right thumb, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/191x100.png/dddddd/000000",
+    url: "https://dummyimage.com/191x100.png/dddddd/000000",
   },
   {
     id: "c4838039-9a7a-4417-881b-72ebe0bcf3ff",
@@ -2043,7 +2043,7 @@ export const articles = [
     title: "Staff Scientist",
     text: "Decreased fetal movements, unspecified trimester, fetus 4",
     type: "Business",
-    url: "http://dummyimage.com/104x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/104x100.png/cc0000/ffffff",
   },
   {
     id: "bbf7e76f-aa6b-4a49-b40e-41eb9d3021fe",
@@ -2054,7 +2054,7 @@ export const articles = [
     title: "Research Associate",
     text: "Other scooter (nonmotorized) accident, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/180x100.png/5fa2dd/ffffff",
   },
   {
     id: "425476ce-fe65-4210-9544-00ae812c2f92",
@@ -2065,7 +2065,7 @@ export const articles = [
     title: "Teacher",
     text: "Injury of unspecified nerve at forearm level, left arm, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/110x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/110x100.png/5fa2dd/ffffff",
   },
   {
     id: "e3d16808-cf73-4d2c-9c4e-304686206804",
@@ -2076,7 +2076,7 @@ export const articles = [
     title: "Nuclear Power Engineer",
     text: "Inhalant abuse with inhalant-induced mood disorder",
     type: "Business",
-    url: "http://dummyimage.com/165x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/165x100.png/ff4444/ffffff",
   },
   {
     id: "71c0d577-93ff-46e1-b19e-949b6a1d46d0",
@@ -2087,7 +2087,7 @@ export const articles = [
     title: "Account Executive",
     text: "Displaced comminuted fracture of shaft of left femur, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/249x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/249x100.png/ff4444/ffffff",
   },
   {
     id: "2605d8ed-bbee-46fb-a31b-31b7bd10c505",
@@ -2098,7 +2098,7 @@ export const articles = [
     title: "Structural Analysis Engineer",
     text: "Terrorism involving explosion of marine weapons, public safety official injured, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/107x100.png/dddddd/000000",
+    url: "https://dummyimage.com/107x100.png/dddddd/000000",
   },
   {
     id: "91b52760-0222-48d1-954f-ac52f37d61eb",
@@ -2109,7 +2109,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Unspecified injury of wrist, hand and finger(s)",
     type: "Shopping",
-    url: "http://dummyimage.com/230x100.png/dddddd/000000",
+    url: "https://dummyimage.com/230x100.png/dddddd/000000",
   },
   {
     id: "468755c5-b3bd-4b5b-aad1-1957aa4454fc",
@@ -2120,7 +2120,7 @@ export const articles = [
     title: "Research Nurse",
     text: "Mild laceration of heart with hemopericardium, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/125x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/125x100.png/cc0000/ffffff",
   },
   {
     id: "123e235f-13da-4ada-b8b5-7e93316163eb",
@@ -2131,7 +2131,7 @@ export const articles = [
     title: "Compensation Analyst",
     text: "Poisoning by unspecified topical agent, accidental (unintentional)",
     type: "Business",
-    url: "http://dummyimage.com/228x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/228x100.png/5fa2dd/ffffff",
   },
   {
     id: "08848232-fbe4-4c09-adb9-2475b45d8cf4",
@@ -2142,7 +2142,7 @@ export const articles = [
     title: "Programmer IV",
     text: "Varicose veins of left lower extremity with both ulcer of unspecified site and inflammation",
     type: "Shopping",
-    url: "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/104x100.png/ff4444/ffffff",
   },
   {
     id: "2acae72a-eacf-4c69-8710-f34cc22110c0",
@@ -2153,7 +2153,7 @@ export const articles = [
     title: "Assistant Professor",
     text: "Contact with power take-off devices (PTO), sequela",
     type: "Business",
-    url: "http://dummyimage.com/114x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/114x100.png/5fa2dd/ffffff",
   },
   {
     id: "143b4a6a-c371-4d48-8dc1-01620e203fb1",
@@ -2164,7 +2164,7 @@ export const articles = [
     title: "Safety Technician I",
     text: "Person on outside of bus injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/226x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/226x100.png/cc0000/ffffff",
   },
   {
     id: "5d46ec64-391a-4f74-ac6e-1d4c0c21c2ec",
@@ -2175,7 +2175,7 @@ export const articles = [
     title: "Product Engineer",
     text: "Nondisplaced comminuted fracture of shaft of radius, right arm, subsequent encounter for open fracture type I or II with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/199x100.png/dddddd/000000",
+    url: "https://dummyimage.com/199x100.png/dddddd/000000",
   },
   {
     id: "ef0352a9-736a-460c-bd4f-5c5cb654c36b",
@@ -2186,7 +2186,7 @@ export const articles = [
     title: "Web Designer IV",
     text: "Other fracture of lower end of left femur, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/222x100.png/dddddd/000000",
+    url: "https://dummyimage.com/222x100.png/dddddd/000000",
   },
   {
     id: "8da47a89-ffba-4e41-a8af-2bb01c182e4f",
@@ -2197,7 +2197,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Melanocytic nevi, unspecified",
     type: "Business",
-    url: "http://dummyimage.com/210x100.png/dddddd/000000",
+    url: "https://dummyimage.com/210x100.png/dddddd/000000",
   },
   {
     id: "aaa20496-bcfb-41e4-bf8d-09e697acac13",
@@ -2208,7 +2208,7 @@ export const articles = [
     title: "Research Associate",
     text: "Carbuncle of back [any part, except buttock]",
     type: "Business",
-    url: "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/145x100.png/5fa2dd/ffffff",
   },
   {
     id: "b853f95c-df66-44d3-9af4-d85d61bccca3",
@@ -2219,7 +2219,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Inferior dislocation of unspecified humerus, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/183x100.png/dddddd/000000",
+    url: "https://dummyimage.com/183x100.png/dddddd/000000",
   },
   {
     id: "f04015e6-0986-439a-beb1-92678faeec9c",
@@ -2230,7 +2230,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Corrosion of unspecified degree of unspecified toe(s) (nail), subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/179x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/179x100.png/cc0000/ffffff",
   },
   {
     id: "b9bd3ea1-9ae8-416b-9e4b-9dc83e225cf6",
@@ -2241,7 +2241,7 @@ export const articles = [
     title: "Media Manager II",
     text: "Unspecified dislocation of left middle finger",
     type: "Business",
-    url: "http://dummyimage.com/158x100.png/dddddd/000000",
+    url: "https://dummyimage.com/158x100.png/dddddd/000000",
   },
   {
     id: "203eea58-1cc7-47d8-842d-69c5ef24ffa9",
@@ -2252,7 +2252,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck",
     type: "Finance",
-    url: "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/100x100.png/cc0000/ffffff",
   },
   {
     id: "346ddf17-172c-44e6-8f6a-dc14a94c86eb",
@@ -2263,7 +2263,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Cutaneous erysipeloid",
     type: "Business",
-    url: "http://dummyimage.com/213x100.png/dddddd/000000",
+    url: "https://dummyimage.com/213x100.png/dddddd/000000",
   },
   {
     id: "9f336845-8ee1-46b4-8d18-ba98bc873d96",
@@ -2274,7 +2274,7 @@ export const articles = [
     title: "Database Administrator II",
     text: "Inferior subluxation of left humerus",
     type: "Business",
-    url: "http://dummyimage.com/125x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/125x100.png/cc0000/ffffff",
   },
   {
     id: "f9643295-4ad6-4f43-b2e9-c6c7036ba627",
@@ -2285,7 +2285,7 @@ export const articles = [
     title: "Community Outreach Specialist",
     text: "Other mental disorders complicating childbirth",
     type: "Finance",
-    url: "http://dummyimage.com/232x100.png/dddddd/000000",
+    url: "https://dummyimage.com/232x100.png/dddddd/000000",
   },
   {
     id: "9b5cba2c-5245-411f-9663-e52f39b9f47a",
@@ -2296,7 +2296,7 @@ export const articles = [
     title: "Senior Financial Analyst",
     text: "Kaschin-Beck disease, left shoulder",
     type: "Finance",
-    url: "http://dummyimage.com/136x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/136x100.png/ff4444/ffffff",
   },
   {
     id: "6025a61c-cc28-42c0-9cab-20ca609bdf4e",
@@ -2307,7 +2307,7 @@ export const articles = [
     title: "Paralegal",
     text: "Displaced spiral fracture of shaft of unspecified fibula",
     type: "Shopping",
-    url: "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/225x100.png/cc0000/ffffff",
   },
   {
     id: "995ea701-863b-4afe-b337-cb8d4bf5d917",
@@ -2318,7 +2318,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "War operations involving unspecified explosion and fragments, civilian, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/178x100.png/dddddd/000000",
+    url: "https://dummyimage.com/178x100.png/dddddd/000000",
   },
   {
     id: "8631102c-bbcf-408a-9cb4-6ba59a58f950",
@@ -2329,7 +2329,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Polyostotic fibrous dysplasia",
     type: "Business",
-    url: "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/112x100.png/5fa2dd/ffffff",
   },
   {
     id: "e0ab6485-7a33-4778-bbb4-aaf42769b079",
@@ -2340,7 +2340,7 @@ export const articles = [
     title: "Account Executive",
     text: "Maternal care for known or suspected placental insufficiency, first trimester, other fetus",
     type: "Shopping",
-    url: "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/220x100.png/5fa2dd/ffffff",
   },
   {
     id: "82223db8-f363-4f1d-b9c0-457b628379ed",
@@ -2351,7 +2351,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Poisoning by anticoagulant antagonists, vitamin K and other coagulants, undetermined, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/243x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/243x100.png/ff4444/ffffff",
   },
   {
     id: "5147b953-52f8-45a8-9ef7-69156d8b14ca",
@@ -2362,7 +2362,7 @@ export const articles = [
     title: "Dental Hygienist",
     text: "Generalized tularemia",
     type: "Shopping",
-    url: "http://dummyimage.com/244x100.png/dddddd/000000",
+    url: "https://dummyimage.com/244x100.png/dddddd/000000",
   },
   {
     id: "33b146af-15e5-4e9e-a79d-a7ccfaa5ea41",
@@ -2373,7 +2373,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Oblique fracture of shaft of humerus",
     type: "Business",
-    url: "http://dummyimage.com/221x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/221x100.png/cc0000/ffffff",
   },
   {
     id: "53bf30a8-c9ca-4ed7-99ef-61bd313b8e3f",
@@ -2384,7 +2384,7 @@ export const articles = [
     title: "VP Marketing",
     text: "Unspecified open wound of unspecified great toe without damage to nail, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/198x100.png/dddddd/000000",
+    url: "https://dummyimage.com/198x100.png/dddddd/000000",
   },
   {
     id: "36c6219f-05d2-4552-a8c2-767b8ed3dbdf",
@@ -2395,7 +2395,7 @@ export const articles = [
     title: "Assistant Professor",
     text: "Nondisplaced fracture of medial condyle of unspecified tibia, subsequent encounter for closed fracture with malunion",
     type: "Shopping",
-    url: "http://dummyimage.com/124x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/124x100.png/cc0000/ffffff",
   },
   {
     id: "d06647fa-de86-413f-9110-291c5a777bac",
@@ -2406,7 +2406,7 @@ export const articles = [
     title: "Actuary",
     text: "Burn of third degree of male genital region, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/103x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/103x100.png/cc0000/ffffff",
   },
   {
     id: "1ba33b41-17a6-4186-8f52-d2fa228b0822",
@@ -2417,7 +2417,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Fracture of right shoulder girdle, part unspecified, sequela",
     type: "Business",
-    url: "http://dummyimage.com/150x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/150x100.png/5fa2dd/ffffff",
   },
   {
     id: "4c781c83-b997-4cb1-889b-5cb914423fbb",
@@ -2428,7 +2428,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Toxic effect of unspecified pesticide, assault",
     type: "Finance",
-    url: "http://dummyimage.com/132x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/132x100.png/ff4444/ffffff",
   },
   {
     id: "61ff2a65-5960-485b-8916-aa3b3d4df873",
@@ -2439,7 +2439,7 @@ export const articles = [
     title: "Librarian",
     text: "Poisoning by macrolides, intentional self-harm, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/224x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/224x100.png/5fa2dd/ffffff",
   },
   {
     id: "d9b90936-a407-4733-bd27-ecfe12aad244",
@@ -2450,7 +2450,7 @@ export const articles = [
     title: "Actuary",
     text: "Traumatic rupture of other ligament of left middle finger at metacarpophalangeal and interphalangeal joint, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/207x100.png/5fa2dd/ffffff",
   },
   {
     id: "2e64a9e8-6701-4274-bbd6-6247fd827707",
@@ -2461,7 +2461,7 @@ export const articles = [
     title: "Sales Representative",
     text: "Osteopathy after poliomyelitis, unspecified forearm",
     type: "Business",
-    url: "http://dummyimage.com/195x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/195x100.png/5fa2dd/ffffff",
   },
   {
     id: "b44214fe-f940-4d8f-bdc2-885160501734",
@@ -2472,7 +2472,7 @@ export const articles = [
     title: "Food Chemist",
     text: "Asphyxiation due to cave-in or falling earth, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/195x100.png/dddddd/000000",
+    url: "https://dummyimage.com/195x100.png/dddddd/000000",
   },
   {
     id: "d6511e1f-9cd9-4e2b-b24b-a1b206d1f8a9",
@@ -2483,7 +2483,7 @@ export const articles = [
     title: "Accounting Assistant II",
     text: "Displaced simple supracondylar fracture without intercondylar fracture of left humerus, subsequent encounter for fracture with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/197x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/197x100.png/cc0000/ffffff",
   },
   {
     id: "53ebbc06-09d6-4753-919f-4d0d35d897c3",
@@ -2494,7 +2494,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Nondisplaced fracture of lateral malleolus of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Finance",
-    url: "http://dummyimage.com/170x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/170x100.png/ff4444/ffffff",
   },
   {
     id: "78a63703-ba0b-47d9-a21b-6762ca57d6fc",
@@ -2505,7 +2505,7 @@ export const articles = [
     title: "Software Test Engineer IV",
     text: "Sprain of unspecified site of left knee",
     type: "Shopping",
-    url: "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/113x100.png/5fa2dd/ffffff",
   },
   {
     id: "4dc86ac5-47a0-48dd-b747-d5e30feb6cb5",
@@ -2516,7 +2516,7 @@ export const articles = [
     title: "Financial Advisor",
     text: "Traumatic rupture of volar plate of left index finger at metacarpophalangeal and interphalangeal joint, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/247x100.png/dddddd/000000",
+    url: "https://dummyimage.com/247x100.png/dddddd/000000",
   },
   {
     id: "dba9cbad-dfc1-4d2a-8807-d87f7cc0bb47",
@@ -2527,7 +2527,7 @@ export const articles = [
     title: "Safety Technician II",
     text: "Synovial cyst of popliteal space [Baker], right knee",
     type: "Shopping",
-    url: "http://dummyimage.com/238x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/238x100.png/5fa2dd/ffffff",
   },
   {
     id: "30cbdb67-88f6-403c-9499-829ea3e04e27",
@@ -2538,7 +2538,7 @@ export const articles = [
     title: "Technical Writer",
     text: "Person on outside of pick-up truck or van injured in collision with heavy transport vehicle or bus in nontraffic accident, subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/122x100.png/5fa2dd/ffffff",
   },
   {
     id: "3975dd18-e7ca-4e9d-a4e9-38a1bb5368b0",
@@ -2549,7 +2549,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Fall due to collision between fishing boat and other watercraft or other object, subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/105x100.png/dddddd/000000",
+    url: "https://dummyimage.com/105x100.png/dddddd/000000",
   },
   {
     id: "06d96fac-953b-4bf2-b62b-855bea0b5b30",
@@ -2560,7 +2560,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Poisoning by emollients, demulcents and protectants, undetermined, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/246x100.png/dddddd/000000",
+    url: "https://dummyimage.com/246x100.png/dddddd/000000",
   },
   {
     id: "f70909a5-6f8a-46e0-b260-5c6d8f800dda",
@@ -2571,7 +2571,7 @@ export const articles = [
     title: "Media Manager III",
     text: "Renovascular hypertension",
     type: "Business",
-    url: "http://dummyimage.com/171x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/171x100.png/ff4444/ffffff",
   },
   {
     id: "58d199dc-6c83-41b5-94cc-37845503224f",
@@ -2582,7 +2582,7 @@ export const articles = [
     title: "Office Assistant I",
     text: "Abrasion of lip",
     type: "Shopping",
-    url: "http://dummyimage.com/242x100.png/dddddd/000000",
+    url: "https://dummyimage.com/242x100.png/dddddd/000000",
   },
   {
     id: "fbb04c6e-1bcc-4b1a-a8ef-46e435959cff",
@@ -2593,7 +2593,7 @@ export const articles = [
     title: "Sales Associate",
     text: "Toxic effect of chromium and its compounds, intentional self-harm, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/181x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/181x100.png/cc0000/ffffff",
   },
   {
     id: "6470d64c-9036-419f-a1b7-8dd638b29466",
@@ -2604,7 +2604,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Displaced fracture of lower epiphysis (separation) of right femur, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/125x100.png/5fa2dd/ffffff",
   },
   {
     id: "14f9b2b3-af46-47ea-8a88-9613ef9b48d3",
@@ -2615,7 +2615,7 @@ export const articles = [
     title: "Media Manager I",
     text: "Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/118x100.png/5fa2dd/ffffff",
   },
   {
     id: "fb6ff159-bb32-4955-a7f4-4572150012ec",
@@ -2626,7 +2626,7 @@ export const articles = [
     title: "Information Systems Manager",
     text: "Pedestrian on skateboard injured in collision with railway train or railway vehicle in traffic accident, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/157x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/157x100.png/cc0000/ffffff",
   },
   {
     id: "b0bb541e-f747-46ae-8279-feef8be13c05",
@@ -2637,7 +2637,7 @@ export const articles = [
     title: "Technical Writer",
     text: "Open bite of abdominal wall, unspecified quadrant without penetration into peritoneal cavity, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/158x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/158x100.png/ff4444/ffffff",
   },
   {
     id: "b3104667-3977-410c-b7a1-07b924152c63",
@@ -2648,7 +2648,7 @@ export const articles = [
     title: "Pharmacist",
     text: "Hypopyon",
     type: "Shopping",
-    url: "http://dummyimage.com/133x100.png/dddddd/000000",
+    url: "https://dummyimage.com/133x100.png/dddddd/000000",
   },
   {
     id: "0536458b-ab7e-4a81-b477-7af4c6ac3be8",
@@ -2659,7 +2659,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Congenital malformations of larynx",
     type: "Shopping",
-    url: "http://dummyimage.com/233x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/233x100.png/ff4444/ffffff",
   },
   {
     id: "e33eba00-f6fb-4c8e-a037-7ee033a02ebd",
@@ -2670,7 +2670,7 @@ export const articles = [
     title: "Physical Therapy Assistant",
     text: "Nondisplaced bimalleolar fracture of left lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/147x100.png/dddddd/000000",
+    url: "https://dummyimage.com/147x100.png/dddddd/000000",
   },
   {
     id: "13e4cd95-e0e5-41a9-ab9b-27427a7d5f6c",
@@ -2681,7 +2681,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Injury of cutaneous sensory nerve at ankle and foot level, unspecified leg, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/149x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/149x100.png/5fa2dd/ffffff",
   },
   {
     id: "1e449207-2e19-4d3a-a9a2-97310b8e1840",
@@ -2692,7 +2692,7 @@ export const articles = [
     title: "Account Executive",
     text: "Unilateral post-traumatic osteoarthritis, unspecified knee",
     type: "Business",
-    url: "http://dummyimage.com/210x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/210x100.png/5fa2dd/ffffff",
   },
   {
     id: "076925b3-37b9-4d36-8c2d-3d085291e742",
@@ -2703,7 +2703,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Poisoning by pertussis vaccine, including combinations with a pertussis component, assault",
     type: "Shopping",
-    url: "http://dummyimage.com/120x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/120x100.png/cc0000/ffffff",
   },
   {
     id: "bda80b2c-98c8-42ea-a454-60d7c0c0505c",
@@ -2714,7 +2714,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Infection and inflammatory reaction due to other urinary stents, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/212x100.png/dddddd/000000",
+    url: "https://dummyimage.com/212x100.png/dddddd/000000",
   },
   {
     id: "675ea32d-0b9f-4fdb-9d54-9e0490dae149",
@@ -2725,7 +2725,7 @@ export const articles = [
     title: "Quality Control Specialist",
     text: "Laceration with foreign body of unspecified thumb with damage to nail, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/138x100.png/dddddd/000000",
+    url: "https://dummyimage.com/138x100.png/dddddd/000000",
   },
   {
     id: "5f3ef850-fd4e-474f-ba56-b76e13d35ac3",
@@ -2736,7 +2736,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Osteitis condensans, unspecified site",
     type: "Shopping",
-    url: "http://dummyimage.com/234x100.png/dddddd/000000",
+    url: "https://dummyimage.com/234x100.png/dddddd/000000",
   },
   {
     id: "99567855-b393-422a-bf1c-8e105274df7c",
@@ -2747,7 +2747,7 @@ export const articles = [
     title: "Recruiter",
     text: "Blister (nonthermal) of left ring finger",
     type: "Business",
-    url: "http://dummyimage.com/228x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/228x100.png/cc0000/ffffff",
   },
   {
     id: "0c20ade9-9401-422c-8791-e62f921613fc",
@@ -2758,7 +2758,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Poisoning by butyrophenone and thiothixene neuroleptics, accidental (unintentional)",
     type: "Business",
-    url: "http://dummyimage.com/241x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/241x100.png/ff4444/ffffff",
   },
   {
     id: "f85d4370-404a-444d-b16f-34d90733d387",
@@ -2769,7 +2769,7 @@ export const articles = [
     title: "Administrative Officer",
     text: "Moderate laceration of unspecified part of pancreas, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/106x100.png/5fa2dd/ffffff",
   },
   {
     id: "7ffac47d-43d8-425e-953f-2124ef034b6c",
@@ -2780,7 +2780,7 @@ export const articles = [
     title: "Operator",
     text: "Stress fracture, right ulna, initial encounter for fracture",
     type: "Business",
-    url: "http://dummyimage.com/187x100.png/dddddd/000000",
+    url: "https://dummyimage.com/187x100.png/dddddd/000000",
   },
   {
     id: "1cf3969a-9926-4488-ba35-45b749f9f51d",
@@ -2791,7 +2791,7 @@ export const articles = [
     title: "Staff Accountant IV",
     text: "Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",
     type: "Finance",
-    url: "http://dummyimage.com/140x100.png/dddddd/000000",
+    url: "https://dummyimage.com/140x100.png/dddddd/000000",
   },
   {
     id: "2580f159-ce39-4485-bf87-88a4c9ff93a1",
@@ -2802,7 +2802,7 @@ export const articles = [
     title: "Environmental Specialist",
     text: "Underdosing of unspecified narcotics, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/188x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/188x100.png/ff4444/ffffff",
   },
   {
     id: "9d71518c-5df4-4757-8def-1c457f588480",
@@ -2813,7 +2813,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Amniotic fluid embolism in the puerperium",
     type: "Finance",
-    url: "http://dummyimage.com/179x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/179x100.png/cc0000/ffffff",
   },
   {
     id: "027365a9-6749-4fae-a1ba-90b399fdcdc4",
@@ -2824,7 +2824,7 @@ export const articles = [
     title: "Environmental Specialist",
     text: "Burn of first degree of multiple sites of right shoulder and upper limb, except wrist and hand, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/176x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/176x100.png/ff4444/ffffff",
   },
   {
     id: "f2c8423c-b86d-4a82-a75f-bd865460f4b6",
@@ -2835,7 +2835,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Greenstick fracture of shaft of unspecified ulna, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/146x100.png/5fa2dd/ffffff",
   },
   {
     id: "4454acca-b6bf-4be6-aac5-b40718a7be90",
@@ -2846,7 +2846,7 @@ export const articles = [
     title: "Analyst Programmer",
     text: "Benign neoplasm of unspecified part of small intestine",
     type: "Shopping",
-    url: "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/250x100.png/5fa2dd/ffffff",
   },
   {
     id: "63479314-0b49-45c3-98ab-868ec0040e31",
@@ -2857,7 +2857,7 @@ export const articles = [
     title: "Cost Accountant",
     text: "Multiple perforations of tympanic membrane, right ear",
     type: "Shopping",
-    url: "http://dummyimage.com/135x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/135x100.png/cc0000/ffffff",
   },
   {
     id: "55f4c034-7fce-407b-adfa-fcef603132b0",
@@ -2868,7 +2868,7 @@ export const articles = [
     title: "Senior Financial Analyst",
     text: "Other injury of unspecified body region",
     type: "Business",
-    url: "http://dummyimage.com/195x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/195x100.png/ff4444/ffffff",
   },
   {
     id: "d9778407-bbd5-453b-8a10-2635d5d1e58f",
@@ -2879,7 +2879,7 @@ export const articles = [
     title: "Professor",
     text: "Fracture of unspecified part of right clavicle",
     type: "Shopping",
-    url: "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/113x100.png/5fa2dd/ffffff",
   },
   {
     id: "a0b88b5c-3368-44d2-90e8-388349a43a58",
@@ -2890,7 +2890,7 @@ export const articles = [
     title: "Software Test Engineer II",
     text: "Strain of intrinsic muscle, fascia and tendon of right index finger at wrist and hand level, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/221x100.png/5fa2dd/ffffff",
   },
   {
     id: "ea22faa3-e627-4092-ae64-43e8d7bf0eb6",
@@ -2901,7 +2901,7 @@ export const articles = [
     title: "Account Representative I",
     text: "Nondisplaced fracture of neck of other metacarpal bone, subsequent encounter for fracture with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/216x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/216x100.png/ff4444/ffffff",
   },
   {
     id: "2347a415-bf7e-4c9c-b166-6626d58db95c",
@@ -2912,7 +2912,7 @@ export const articles = [
     title: "Professor",
     text: "Fall into well, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/150x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/150x100.png/cc0000/ffffff",
   },
   {
     id: "c5f2a7eb-adda-4591-a2a9-3507e80c370b",
@@ -2923,7 +2923,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Corrosion of unspecified degree of wrist and hand",
     type: "Business",
-    url: "http://dummyimage.com/148x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/148x100.png/cc0000/ffffff",
   },
   {
     id: "2b6a2cc5-db86-40d6-bc6d-8dda679357f4",
@@ -2934,7 +2934,7 @@ export const articles = [
     title: "VP Accounting",
     text: "Corrosion of unspecified degree of scalp [any part], initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/206x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/206x100.png/ff4444/ffffff",
   },
   {
     id: "4fdb69f2-7b81-4219-b419-b36e335f495f",
@@ -2945,7 +2945,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Recurrent dislocation, unspecified hip",
     type: "Business",
-    url: "http://dummyimage.com/140x100.png/dddddd/000000",
+    url: "https://dummyimage.com/140x100.png/dddddd/000000",
   },
   {
     id: "8c804d96-2e82-4bd9-bafb-908728c25052",
@@ -2956,7 +2956,7 @@ export const articles = [
     title: "Geologist I",
     text: "Unspecified fracture of upper end of unspecified tibia, subsequent encounter for open fracture type I or II with malunion",
     type: "Finance",
-    url: "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/151x100.png/5fa2dd/ffffff",
   },
   {
     id: "433a9a0b-4f1a-4c2a-8842-ab1b888eda04",
@@ -2967,7 +2967,7 @@ export const articles = [
     title: "Web Designer I",
     text: "Unspecified traumatic displaced spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",
     type: "Business",
-    url: "http://dummyimage.com/212x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/212x100.png/5fa2dd/ffffff",
   },
   {
     id: "7ecf73f4-01ae-40f8-8bf2-cbf959e03403",
@@ -2978,7 +2978,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Drug-induced chronic gout, unspecified hand, without tophus (tophi)",
     type: "Business",
-    url: "http://dummyimage.com/165x100.png/dddddd/000000",
+    url: "https://dummyimage.com/165x100.png/dddddd/000000",
   },
   {
     id: "9ef64dfb-3d28-4425-94cf-93ee556840bc",
@@ -2989,7 +2989,7 @@ export const articles = [
     title: "Electrical Engineer",
     text: "Family history of certain disabilities and chronic diseases (leading to disablement)",
     type: "Shopping",
-    url: "http://dummyimage.com/208x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/208x100.png/cc0000/ffffff",
   },
   {
     id: "91c18508-bc1d-41f1-9a30-771291b4b92b",
@@ -3000,7 +3000,7 @@ export const articles = [
     title: "Accountant III",
     text: "Congenital fistula of rectum and anus",
     type: "Business",
-    url: "http://dummyimage.com/178x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/178x100.png/cc0000/ffffff",
   },
   {
     id: "bc7cb944-4fe2-47cc-b6f9-50ad1ec26ccb",
@@ -3011,7 +3011,7 @@ export const articles = [
     title: "Structural Engineer",
     text: "Unspecified fracture of shaft of right radius, subsequent encounter for open fracture type I or II with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/164x100.png/5fa2dd/ffffff",
   },
   {
     id: "0399ebf4-fa05-4ef4-abde-110821f5bba0",
@@ -3022,7 +3022,7 @@ export const articles = [
     title: "Actuary",
     text: "Synovial hypertrophy, not elsewhere classified, forearm",
     type: "Business",
-    url: "http://dummyimage.com/211x100.png/dddddd/000000",
+    url: "https://dummyimage.com/211x100.png/dddddd/000000",
   },
   {
     id: "80f15257-9f57-4bc5-ab86-25c8996e60ae",
@@ -3033,7 +3033,7 @@ export const articles = [
     title: "Systems Administrator II",
     text: "Osteitis deformans of left shoulder",
     type: "Shopping",
-    url: "http://dummyimage.com/217x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/217x100.png/cc0000/ffffff",
   },
   {
     id: "860462ff-324e-482a-aa4a-7a68f29fb109",
@@ -3044,7 +3044,7 @@ export const articles = [
     title: "VP Accounting",
     text: "Dislocation of septal cartilage of nose, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/203x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/203x100.png/cc0000/ffffff",
   },
   {
     id: "95a0ed0d-7e84-44f1-8b43-6919e6a053c3",
@@ -3055,7 +3055,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Contusion, laceration, and hemorrhage of brainstem with loss of consciousness greater than 24 hours with return to pre-existing conscious level",
     type: "Shopping",
-    url: "http://dummyimage.com/125x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/125x100.png/cc0000/ffffff",
   },
   {
     id: "011c1337-207d-4a9f-a0f5-ec0102d81eba",
@@ -3066,7 +3066,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Injury of other nerves at wrist and hand level of right arm, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/230x100.png/5fa2dd/ffffff",
   },
   {
     id: "8e2736d5-82db-4e0e-a64d-2b756f2a04a9",
@@ -3077,7 +3077,7 @@ export const articles = [
     title: "General Manager",
     text: "Greenstick fracture of shaft of ulna",
     type: "Shopping",
-    url: "http://dummyimage.com/227x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/227x100.png/cc0000/ffffff",
   },
   {
     id: "db92ded6-8d2d-4532-a1f0-82630e012203",
@@ -3088,7 +3088,7 @@ export const articles = [
     title: "Business Systems Development Analyst",
     text: "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy",
     type: "Business",
-    url: "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/237x100.png/5fa2dd/ffffff",
   },
   {
     id: "8faeb077-eecb-4eb9-931a-82f15340d959",
@@ -3099,7 +3099,7 @@ export const articles = [
     title: "Operator",
     text: "Strain of flexor muscle, fascia and tendon of right ring finger at wrist and hand level, sequela",
     type: "Business",
-    url: "http://dummyimage.com/179x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/179x100.png/ff4444/ffffff",
   },
   {
     id: "b6dc117a-bfdd-4f62-b500-ebf7fac673a3",
@@ -3110,7 +3110,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Retained (nonmagnetic) (old) foreign body in anterior chamber, bilateral",
     type: "Business",
-    url: "http://dummyimage.com/210x100.png/dddddd/000000",
+    url: "https://dummyimage.com/210x100.png/dddddd/000000",
   },
   {
     id: "5bf565b8-404a-4703-b4be-be2a5bd59329",
@@ -3121,7 +3121,7 @@ export const articles = [
     title: "Information Systems Manager",
     text: "Barton's fracture of left radius",
     type: "Finance",
-    url: "http://dummyimage.com/154x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/154x100.png/ff4444/ffffff",
   },
   {
     id: "57c80f09-a563-44bf-a42e-dda0592a9b95",
@@ -3132,7 +3132,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Trachoma",
     type: "Shopping",
-    url: "http://dummyimage.com/114x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/114x100.png/5fa2dd/ffffff",
   },
   {
     id: "99c9e663-5b82-4aab-9176-d5154b8cdafa",
@@ -3143,7 +3143,7 @@ export const articles = [
     title: "Electrical Engineer",
     text: "Burn of third degree of right lower leg",
     type: "Shopping",
-    url: "http://dummyimage.com/153x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/153x100.png/ff4444/ffffff",
   },
   {
     id: "044dcb4d-b1d8-4bb2-b8d7-45fabfe33d7f",
@@ -3154,7 +3154,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Burn of second degree of multiple sites of right lower limb, except ankle and foot, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/175x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/175x100.png/ff4444/ffffff",
   },
   {
     id: "4e1e077d-8339-4e0c-88a1-01bb3079d2cb",
@@ -3165,7 +3165,7 @@ export const articles = [
     title: "Environmental Tech",
     text: "Parasitic endophthalmitis, unspecified, unspecified eye",
     type: "Business",
-    url: "http://dummyimage.com/146x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/146x100.png/ff4444/ffffff",
   },
   {
     id: "d4d6bf81-2d7f-4c31-8307-c22adec3543d",
@@ -3176,7 +3176,7 @@ export const articles = [
     title: "Developer I",
     text: "Primary hypotony of eye, bilateral",
     type: "Shopping",
-    url: "http://dummyimage.com/158x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/158x100.png/ff4444/ffffff",
   },
   {
     id: "c4dc03e8-38f8-4206-ae9a-f2cfe4d939df",
@@ -3187,7 +3187,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Other injury of unspecified muscle(s) and tendon(s) at lower leg level, left leg, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/119x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/119x100.png/ff4444/ffffff",
   },
   {
     id: "6239046d-9f94-4674-9c09-0579e989e0bd",
@@ -3198,7 +3198,7 @@ export const articles = [
     title: "Assistant Manager",
     text: "Labor and delivery complicated by abnormality of fetal acid-base balance",
     type: "Shopping",
-    url: "http://dummyimage.com/152x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/152x100.png/cc0000/ffffff",
   },
   {
     id: "c25668fd-96dc-48a1-ae19-bfa9252dd984",
@@ -3209,7 +3209,7 @@ export const articles = [
     title: "Pharmacist",
     text: "Dislocation of interphalangeal joint of unspecified lesser toe(s), subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/234x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/234x100.png/ff4444/ffffff",
   },
   {
     id: "d57a467b-e264-4c3d-9b0d-d45963f83254",
@@ -3220,7 +3220,7 @@ export const articles = [
     title: "Civil Engineer",
     text: "Other specified injury of unspecified blood vessel at ankle and foot level, right leg, initial encounter",
     type: "Finance",
-    url: "http://dummyimage.com/182x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/182x100.png/cc0000/ffffff",
   },
   {
     id: "3857a0f9-cb89-45d7-93e9-2317e43a511f",
@@ -3231,7 +3231,7 @@ export const articles = [
     title: "Health Coach III",
     text: "Salter-Harris Type I physeal fracture of phalanx of left toe, initial encounter for open fracture",
     type: "Business",
-    url: "http://dummyimage.com/145x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/145x100.png/cc0000/ffffff",
   },
   {
     id: "74979233-5d09-47ba-9c10-380fa0146a59",
@@ -3242,7 +3242,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Nondisplaced comminuted fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/123x100.png/dddddd/000000",
+    url: "https://dummyimage.com/123x100.png/dddddd/000000",
   },
   {
     id: "1e755672-fa48-411b-ae00-ef5a372c541c",
@@ -3253,7 +3253,7 @@ export const articles = [
     title: "General Manager",
     text: "Other specified crystal arthropathies, knee",
     type: "Business",
-    url: "http://dummyimage.com/134x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/134x100.png/cc0000/ffffff",
   },
   {
     id: "d53c175b-d220-4147-80c9-f86de77a5c4d",
@@ -3264,7 +3264,7 @@ export const articles = [
     title: "Assistant Professor",
     text: "Drowning and submersion in natural water, undetermined intent, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/229x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/229x100.png/ff4444/ffffff",
   },
   {
     id: "586f839a-0e74-4eca-9370-2e1cae59eb13",
@@ -3275,7 +3275,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Iatrogenic neonatal hypoglycemia",
     type: "Business",
-    url: "http://dummyimage.com/215x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/215x100.png/ff4444/ffffff",
   },
   {
     id: "cf7733d6-3bdb-45b1-8cb9-af79e396b48a",
@@ -3286,7 +3286,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Personal history of malignant neoplasm of lip, oral cavity, and pharynx",
     type: "Finance",
-    url: "http://dummyimage.com/213x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/213x100.png/ff4444/ffffff",
   },
   {
     id: "6d133110-632f-4fae-babb-6b752bee898f",
@@ -3297,7 +3297,7 @@ export const articles = [
     title: "Executive Secretary",
     text: "Foreign body granuloma of soft tissue, not elsewhere classified, left ankle and foot",
     type: "Shopping",
-    url: "http://dummyimage.com/240x100.png/dddddd/000000",
+    url: "https://dummyimage.com/240x100.png/dddddd/000000",
   },
   {
     id: "78be607b-51f9-4430-afb1-46fbcc331df0",
@@ -3308,7 +3308,7 @@ export const articles = [
     title: "Automation Specialist III",
     text: "Corrosion of unspecified degree of right wrist, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/140x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/140x100.png/5fa2dd/ffffff",
   },
   {
     id: "0344f24c-2f21-45d0-bd54-049e60ce1c79",
@@ -3319,7 +3319,7 @@ export const articles = [
     title: "Professor",
     text: "Driver of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/133x100.png/dddddd/000000",
+    url: "https://dummyimage.com/133x100.png/dddddd/000000",
   },
   {
     id: "674c2c51-35cc-423d-9a14-dff883615b7c",
@@ -3330,7 +3330,7 @@ export const articles = [
     title: "Account Executive",
     text: "Primary blast injury of descending [left] colon, sequela",
     type: "Business",
-    url: "http://dummyimage.com/224x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/224x100.png/5fa2dd/ffffff",
   },
   {
     id: "f2339c83-69c5-4a08-806b-517683bf3c4d",
@@ -3341,7 +3341,7 @@ export const articles = [
     title: "Financial Analyst",
     text: "Displaced fracture of head of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/194x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/194x100.png/ff4444/ffffff",
   },
   {
     id: "ef5249d3-e16f-4834-997f-f62d2910bbff",
@@ -3352,7 +3352,7 @@ export const articles = [
     title: "Structural Analysis Engineer",
     text: "Displacement of other cardiac electronic device, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/190x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/190x100.png/cc0000/ffffff",
   },
   {
     id: "ed89bdac-667c-429e-8b11-4ae1bf3044aa",
@@ -3363,7 +3363,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Poisoning by unspecified anesthetic, undetermined",
     type: "Business",
-    url: "http://dummyimage.com/137x100.png/dddddd/000000",
+    url: "https://dummyimage.com/137x100.png/dddddd/000000",
   },
   {
     id: "deff3521-8755-4bd8-b3fa-bbcdd0c0000b",
@@ -3374,7 +3374,7 @@ export const articles = [
     title: "Librarian",
     text: "Displaced transverse fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC",
     type: "Shopping",
-    url: "http://dummyimage.com/233x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/233x100.png/cc0000/ffffff",
   },
   {
     id: "7a6fbac0-57ba-44fe-aa11-73bc31e9dd95",
@@ -3385,7 +3385,7 @@ export const articles = [
     title: "Cost Accountant",
     text: "Displaced fracture of intermediate cuneiform of left foot, subsequent encounter for fracture with routine healing",
     type: "Shopping",
-    url: "http://dummyimage.com/192x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/192x100.png/cc0000/ffffff",
   },
   {
     id: "0bf66606-e858-4dff-8100-78245bd2c788",
@@ -3396,7 +3396,7 @@ export const articles = [
     title: "Technical Writer",
     text: "Chronic angle-closure glaucoma, left eye, moderate stage",
     type: "Business",
-    url: "http://dummyimage.com/157x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/157x100.png/ff4444/ffffff",
   },
   {
     id: "3dc26e91-196f-46f0-8bf9-d7cc0d0632e5",
@@ -3407,7 +3407,7 @@ export const articles = [
     title: "Social Worker",
     text: "Burn of unspecified degree of unspecified upper arm, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/218x100.png/dddddd/000000",
+    url: "https://dummyimage.com/218x100.png/dddddd/000000",
   },
   {
     id: "9642f1c7-c3e1-4b21-a781-e3e1f92c83dc",
@@ -3418,7 +3418,7 @@ export const articles = [
     title: "Financial Advisor",
     text: "Contact with workbench tool",
     type: "Business",
-    url: "http://dummyimage.com/198x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/198x100.png/cc0000/ffffff",
   },
   {
     id: "75a5a564-d668-4a45-be81-c783b90b7ed8",
@@ -3429,7 +3429,7 @@ export const articles = [
     title: "Information Systems Manager",
     text: "Orthostatic proteinuria, unspecified",
     type: "Shopping",
-    url: "http://dummyimage.com/136x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/136x100.png/ff4444/ffffff",
   },
   {
     id: "12cd9a16-1c40-45a3-b748-3ec933793237",
@@ -3440,7 +3440,7 @@ export const articles = [
     title: "Assistant Manager",
     text: "Abnormal biochemical finding on antenatal screening of mother",
     type: "Finance",
-    url: "http://dummyimage.com/180x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/180x100.png/ff4444/ffffff",
   },
   {
     id: "4b4f873c-38aa-49fb-ae9f-de3dbd9d1809",
@@ -3451,7 +3451,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Asphyxiation due to plastic bag, accidental, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/103x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/103x100.png/ff4444/ffffff",
   },
   {
     id: "54457e32-545c-4695-a687-62aaefd99e02",
@@ -3462,7 +3462,7 @@ export const articles = [
     title: "Statistician III",
     text: "Nondisplaced fracture of lateral end of unspecified clavicle",
     type: "Business",
-    url: "http://dummyimage.com/181x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/181x100.png/cc0000/ffffff",
   },
   {
     id: "2f8a5120-b854-40de-bcee-c144cff16be4",
@@ -3473,7 +3473,7 @@ export const articles = [
     title: "Food Chemist",
     text: "Unspecified injury of adductor muscle, fascia and tendon of unspecified thigh, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/105x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/105x100.png/ff4444/ffffff",
   },
   {
     id: "757259ed-a812-4b65-ab5a-b5ac96906dc9",
@@ -3484,7 +3484,7 @@ export const articles = [
     title: "Help Desk Operator",
     text: "Low vision, both eyes",
     type: "Shopping",
-    url: "http://dummyimage.com/175x100.png/dddddd/000000",
+    url: "https://dummyimage.com/175x100.png/dddddd/000000",
   },
   {
     id: "23089b9c-06be-4e6d-8882-75015d77b7fe",
@@ -3495,7 +3495,7 @@ export const articles = [
     title: "Environmental Specialist",
     text: "Nondisplaced segmental fracture of shaft of left fibula, subsequent encounter for closed fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/149x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/149x100.png/ff4444/ffffff",
   },
   {
     id: "2b48ddcf-3874-4058-89ce-179553191a82",
@@ -3506,7 +3506,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Private garage of single-family (private) house as the place of occurrence of the external cause",
     type: "Shopping",
-    url: "http://dummyimage.com/235x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/235x100.png/cc0000/ffffff",
   },
   {
     id: "0ea3616f-7324-4de1-a394-0584064da199",
@@ -3517,7 +3517,7 @@ export const articles = [
     title: "Account Representative I",
     text: "Toxic effect of unspecified alcohol, assault, sequela",
     type: "Business",
-    url: "http://dummyimage.com/248x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/248x100.png/ff4444/ffffff",
   },
   {
     id: "24b9463f-cc1f-4a14-9800-383f8eda7c96",
@@ -3528,7 +3528,7 @@ export const articles = [
     title: "Database Administrator III",
     text: "Unspecified open wound of right middle finger with damage to nail",
     type: "Finance",
-    url: "http://dummyimage.com/121x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/121x100.png/ff4444/ffffff",
   },
   {
     id: "e89f5345-ae95-488d-8235-c06d179b9cc9",
@@ -3539,7 +3539,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Sepsis due to other Gram-negative organisms",
     type: "Shopping",
-    url: "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/107x100.png/5fa2dd/ffffff",
   },
   {
     id: "8ea63866-fc8d-419b-8df8-4d63f9ef50fe",
@@ -3550,7 +3550,7 @@ export const articles = [
     title: "Analog Circuit Design manager",
     text: "Osteonecrosis due to drugs of left radius",
     type: "Shopping",
-    url: "http://dummyimage.com/213x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/213x100.png/ff4444/ffffff",
   },
   {
     id: "42da8449-a78d-4ff5-b096-c67d51941941",
@@ -3561,7 +3561,7 @@ export const articles = [
     title: "Design Engineer",
     text: "Personal history of gestational diabetes",
     type: "Shopping",
-    url: "http://dummyimage.com/150x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/150x100.png/ff4444/ffffff",
   },
   {
     id: "d2b4db77-c8c1-445e-9446-bde7ceafeb5c",
@@ -3572,7 +3572,7 @@ export const articles = [
     title: "Quality Engineer",
     text: "Intervertebral disc stenosis of neural canal of abdomen and other regions",
     type: "Shopping",
-    url: "http://dummyimage.com/213x100.png/dddddd/000000",
+    url: "https://dummyimage.com/213x100.png/dddddd/000000",
   },
   {
     id: "abfb4e0d-82b7-42d9-a926-1883b6987cbc",
@@ -3583,7 +3583,7 @@ export const articles = [
     title: "Speech Pathologist",
     text: "Poisoning by antiallergic and antiemetic drugs, intentional self-harm, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/228x100.png/dddddd/000000",
+    url: "https://dummyimage.com/228x100.png/dddddd/000000",
   },
   {
     id: "3bd81085-76b8-4b07-8c2b-945bb1eb9c8d",
@@ -3594,7 +3594,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Fracture of corpus cavernosum penis, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/183x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/183x100.png/5fa2dd/ffffff",
   },
   {
     id: "79148675-df3e-40d1-b827-6dddb50ca5ce",
@@ -3605,7 +3605,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Abrasion, unspecified great toe, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/208x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/208x100.png/ff4444/ffffff",
   },
   {
     id: "ef225cb4-9e83-4842-a88c-983b6335ee8d",
@@ -3616,7 +3616,7 @@ export const articles = [
     title: "Librarian",
     text: "Unspecified injury of sigmoid colon",
     type: "Shopping",
-    url: "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/209x100.png/5fa2dd/ffffff",
   },
   {
     id: "542228bc-6760-47d4-ae8a-b6d7b62aeada",
@@ -3627,7 +3627,7 @@ export const articles = [
     title: "Senior Cost Accountant",
     text: "Corrosion of first degree of unspecified scapular region, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/184x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/184x100.png/ff4444/ffffff",
   },
   {
     id: "1f836120-e794-4e2b-b2ec-01e6d6b34839",
@@ -3638,7 +3638,7 @@ export const articles = [
     title: "Social Worker",
     text: "Other biomechanical lesions of upper extremity",
     type: "Business",
-    url: "http://dummyimage.com/217x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/217x100.png/ff4444/ffffff",
   },
   {
     id: "2c509dbf-da1c-4a96-b9a2-88e6df9b80d3",
@@ -3649,7 +3649,7 @@ export const articles = [
     title: "Payment Adjustment Coordinator",
     text: "Forced landing of balloon injuring occupant",
     type: "Shopping",
-    url: "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/234x100.png/5fa2dd/ffffff",
   },
   {
     id: "bd0bab72-eb98-4a85-818d-c696024cedc6",
@@ -3660,7 +3660,7 @@ export const articles = [
     title: "VP Product Management",
     text: "Age-related osteoporosis with current pathological fracture, left humerus",
     type: "Finance",
-    url: "http://dummyimage.com/137x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/137x100.png/ff4444/ffffff",
   },
   {
     id: "10c7629b-3046-452b-b94a-7e8d10505b89",
@@ -3671,7 +3671,7 @@ export const articles = [
     title: "Product Engineer",
     text: "Cystic meniscus, other lateral meniscus",
     type: "Shopping",
-    url: "http://dummyimage.com/140x100.png/dddddd/000000",
+    url: "https://dummyimage.com/140x100.png/dddddd/000000",
   },
   {
     id: "5105cf17-2576-441d-89b1-8c66a611e27f",
@@ -3682,7 +3682,7 @@ export const articles = [
     title: "Biostatistician I",
     text: "Contact with other hot tap-water, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/239x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/239x100.png/5fa2dd/ffffff",
   },
   {
     id: "52bb18a6-1847-414e-9bf8-7307c63b0846",
@@ -3693,7 +3693,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Displaced spiral fracture of shaft of left tibia, initial encounter for open fracture type I or II",
     type: "Business",
-    url: "http://dummyimage.com/128x100.png/dddddd/000000",
+    url: "https://dummyimage.com/128x100.png/dddddd/000000",
   },
   {
     id: "e7a2b4b9-ef4f-445b-baf1-6edb87a8f445",
@@ -3704,7 +3704,7 @@ export const articles = [
     title: "Financial Analyst",
     text: "Displaced fracture of fifth metatarsal bone, right foot, subsequent encounter for fracture with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/230x100.png/dddddd/000000",
+    url: "https://dummyimage.com/230x100.png/dddddd/000000",
   },
   {
     id: "70f0b492-4ea2-4eb5-843d-ca9357027596",
@@ -3715,7 +3715,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Unspecified disorder of calcium metabolism",
     type: "Finance",
-    url: "http://dummyimage.com/203x100.png/dddddd/000000",
+    url: "https://dummyimage.com/203x100.png/dddddd/000000",
   },
   {
     id: "96a6cd82-3475-49ae-9273-60b1559e9069",
@@ -3726,7 +3726,7 @@ export const articles = [
     title: "VP Sales",
     text: "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/149x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/149x100.png/ff4444/ffffff",
   },
   {
     id: "2ef23c9c-e8ca-4a16-a9d3-7696970406d6",
@@ -3737,7 +3737,7 @@ export const articles = [
     title: "Research Nurse",
     text: "Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, right eye",
     type: "Shopping",
-    url: "http://dummyimage.com/232x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/232x100.png/ff4444/ffffff",
   },
   {
     id: "b8c97b59-e6a3-40fa-8a90-e615f5897eea",
@@ -3748,7 +3748,7 @@ export const articles = [
     title: "Structural Analysis Engineer",
     text: "Displaced fracture of trapezoid [smaller multangular], unspecified wrist",
     type: "Business",
-    url: "http://dummyimage.com/156x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/156x100.png/ff4444/ffffff",
   },
   {
     id: "f4a87f65-e96f-459f-bd70-2fcd2e654c78",
@@ -3759,7 +3759,7 @@ export const articles = [
     title: "Help Desk Technician",
     text: "Salter-Harris Type I physeal fracture of upper end of radius, unspecified arm, subsequent encounter for fracture with malunion",
     type: "Shopping",
-    url: "http://dummyimage.com/227x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/227x100.png/5fa2dd/ffffff",
   },
   {
     id: "37cb2227-86bc-4f5b-b247-68a2c75466b1",
@@ -3770,7 +3770,7 @@ export const articles = [
     title: "Senior Financial Analyst",
     text: "Corrosion of second degree of multiple left fingers (nail), not including thumb",
     type: "Business",
-    url: "http://dummyimage.com/222x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/222x100.png/ff4444/ffffff",
   },
   {
     id: "b8510cb8-9c5d-4629-a186-1cae495ed481",
@@ -3781,7 +3781,7 @@ export const articles = [
     title: "Web Designer II",
     text: "Adverse effect of vitamins, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/213x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/213x100.png/ff4444/ffffff",
   },
   {
     id: "36e76ecc-911d-40d1-9e46-055be5c58f91",
@@ -3792,7 +3792,7 @@ export const articles = [
     title: "Web Developer I",
     text: "Nondisplaced fracture of medial condyle of right femur, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/197x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/197x100.png/5fa2dd/ffffff",
   },
   {
     id: "9b2a990f-1b7e-45de-97c4-3f63af4dbe64",
@@ -3803,7 +3803,7 @@ export const articles = [
     title: "Programmer IV",
     text: "Unspecified nondisplaced fracture of seventh cervical vertebra, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/124x100.png/5fa2dd/ffffff",
   },
   {
     id: "3aa3e8d1-c869-49d1-9d6d-7f2076f7bcf1",
@@ -3814,7 +3814,7 @@ export const articles = [
     title: "Web Designer II",
     text: "Bitten by duck, sequela",
     type: "Business",
-    url: "http://dummyimage.com/131x100.png/dddddd/000000",
+    url: "https://dummyimage.com/131x100.png/dddddd/000000",
   },
   {
     id: "e44acf67-e2f3-433b-9ffe-e1152bfe3611",
@@ -3825,7 +3825,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Fistula, knee",
     type: "Shopping",
-    url: "http://dummyimage.com/189x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/189x100.png/cc0000/ffffff",
   },
   {
     id: "9e31172e-ac08-4456-9255-c19ac22abd89",
@@ -3836,7 +3836,7 @@ export const articles = [
     title: "Structural Analysis Engineer",
     text: "Displaced intertrochanteric fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/211x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/211x100.png/cc0000/ffffff",
   },
   {
     id: "8fe53d8c-fa79-42c3-8f3a-acbb3aac8037",
@@ -3847,7 +3847,7 @@ export const articles = [
     title: "Occupational Therapist",
     text: "Partial traumatic amputation of right great toe, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/129x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/129x100.png/cc0000/ffffff",
   },
   {
     id: "71a9b90a-7bde-407a-9fff-f30ddbe99384",
@@ -3858,7 +3858,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting unspecified side",
     type: "Shopping",
-    url: "http://dummyimage.com/113x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/113x100.png/ff4444/ffffff",
   },
   {
     id: "dcb3db00-74dc-4d31-b3ae-fd6de7a79a78",
@@ -3869,7 +3869,7 @@ export const articles = [
     title: "Software Engineer III",
     text: "Other superficial bite of right eyelid and periocular area, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/233x100.png/dddddd/000000",
+    url: "https://dummyimage.com/233x100.png/dddddd/000000",
   },
   {
     id: "1ae1473c-d881-4056-8fb5-d231e6a30f65",
@@ -3880,7 +3880,7 @@ export const articles = [
     title: "Internal Auditor",
     text: "Cyst of ora serrata",
     type: "Finance",
-    url: "http://dummyimage.com/228x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/228x100.png/cc0000/ffffff",
   },
   {
     id: "93b6df84-6bc5-4626-9dca-ba99bac8b1e4",
@@ -3891,7 +3891,7 @@ export const articles = [
     title: "Geologist I",
     text: "Car occupant (driver) (passenger) injured in transport accident with military vehicle, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/188x100.png/dddddd/000000",
+    url: "https://dummyimage.com/188x100.png/dddddd/000000",
   },
   {
     id: "e99e2460-4819-40de-ab25-27e40af6f86f",
@@ -3902,7 +3902,7 @@ export const articles = [
     title: "Geologist II",
     text: "Biliary acute pancreatitis with infected necrosis",
     type: "Shopping",
-    url: "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/199x100.png/5fa2dd/ffffff",
   },
   {
     id: "59ad8c43-0ae7-4c35-859b-d84a5a8e69e7",
@@ -3913,7 +3913,7 @@ export const articles = [
     title: "Teacher",
     text: "Nondisplaced intertrochanteric fracture of left femur, subsequent encounter for closed fracture with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/238x100.png/dddddd/000000",
+    url: "https://dummyimage.com/238x100.png/dddddd/000000",
   },
   {
     id: "706edbf9-f998-40c1-b0bc-650307cc9480",
@@ -3924,7 +3924,7 @@ export const articles = [
     title: "Cost Accountant",
     text: "Other fracture of unspecified lesser toe(s), subsequent encounter for fracture with malunion",
     type: "Shopping",
-    url: "http://dummyimage.com/180x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/180x100.png/cc0000/ffffff",
   },
   {
     id: "c36fe9af-628b-43d3-94fc-0672857cef06",
@@ -3935,7 +3935,7 @@ export const articles = [
     title: "Office Assistant I",
     text: "Postprocedural hemorrhage of a genitourinary system organ or structure following other procedure",
     type: "Finance",
-    url: "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/235x100.png/5fa2dd/ffffff",
   },
   {
     id: "b19ddde3-2da9-4a1e-9452-47b45df2f96e",
@@ -3946,7 +3946,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Salpingo-oophoritis in pregnancy",
     type: "Business",
-    url: "http://dummyimage.com/204x100.png/dddddd/000000",
+    url: "https://dummyimage.com/204x100.png/dddddd/000000",
   },
   {
     id: "5ab232b1-3279-4b40-8a35-7487b27bff80",
@@ -3957,7 +3957,7 @@ export const articles = [
     title: "Administrative Assistant II",
     text: "Open bite, left foot, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/177x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/177x100.png/cc0000/ffffff",
   },
   {
     id: "0886ccdd-8930-4d7c-b7d7-d31298779e4c",
@@ -3968,7 +3968,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Displaced spiral fracture of shaft of ulna, right arm, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/230x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/230x100.png/ff4444/ffffff",
   },
   {
     id: "40312998-81f7-4630-b0e4-f15c1b37fabe",
@@ -3979,7 +3979,7 @@ export const articles = [
     title: "Mechanical Systems Engineer",
     text: "Encounter for paternity testing",
     type: "Shopping",
-    url: "http://dummyimage.com/236x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/236x100.png/5fa2dd/ffffff",
   },
   {
     id: "9e227fc3-c367-473f-b2c7-1305e7d58ee5",
@@ -3990,7 +3990,7 @@ export const articles = [
     title: "Research Associate",
     text: "Systemic sclerosis [scleroderma]",
     type: "Shopping",
-    url: "http://dummyimage.com/198x100.png/dddddd/000000",
+    url: "https://dummyimage.com/198x100.png/dddddd/000000",
   },
   {
     id: "2f612e76-d24a-4f5a-93ac-1073b144af09",
@@ -4001,7 +4001,7 @@ export const articles = [
     title: "Programmer Analyst IV",
     text: "Fournier gangrene",
     type: "Shopping",
-    url: "http://dummyimage.com/131x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/131x100.png/cc0000/ffffff",
   },
   {
     id: "419aa0cf-0690-42b8-9ac5-ae74bbe96113",
@@ -4012,7 +4012,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Laceration without foreign body of right great toe with damage to nail",
     type: "Shopping",
-    url: "http://dummyimage.com/218x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/218x100.png/cc0000/ffffff",
   },
   {
     id: "a63c7f19-bc4f-4fab-9b9e-faffd06b6571",
@@ -4023,7 +4023,7 @@ export const articles = [
     title: "Database Administrator III",
     text: "Congenital malformations of gallbladder, bile ducts and liver",
     type: "Business",
-    url: "http://dummyimage.com/234x100.png/dddddd/000000",
+    url: "https://dummyimage.com/234x100.png/dddddd/000000",
   },
   {
     id: "0e737ebb-90e6-4089-ba14-783833fb49fb",
@@ -4034,7 +4034,7 @@ export const articles = [
     title: "Information Systems Manager",
     text: "Explosion of mine placed during war operations but exploding after cessation of hostilities",
     type: "Shopping",
-    url: "http://dummyimage.com/103x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/103x100.png/5fa2dd/ffffff",
   },
   {
     id: "32cdc138-b68b-407d-b409-e80c0d5a3221",
@@ -4045,7 +4045,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Rheumatoid bursitis, right elbow",
     type: "Shopping",
-    url: "http://dummyimage.com/218x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/218x100.png/ff4444/ffffff",
   },
   {
     id: "ee991bc5-a372-4358-b85c-9ef579b0f8a2",
@@ -4056,7 +4056,7 @@ export const articles = [
     title: "Operator",
     text: "Osteopathy after poliomyelitis, right ankle and foot",
     type: "Shopping",
-    url: "http://dummyimage.com/102x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/102x100.png/cc0000/ffffff",
   },
   {
     id: "cafcd2fb-8812-419c-8901-3a121e7855be",
@@ -4067,7 +4067,7 @@ export const articles = [
     title: "Account Representative IV",
     text: "Other bursal cyst, left wrist",
     type: "Finance",
-    url: "http://dummyimage.com/179x100.png/dddddd/000000",
+    url: "https://dummyimage.com/179x100.png/dddddd/000000",
   },
   {
     id: "6af27674-1056-4832-aac2-146df96dfbcd",
@@ -4078,7 +4078,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Injury of unspecified blood vessel at neck level, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/117x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/117x100.png/cc0000/ffffff",
   },
   {
     id: "a81fe477-1448-4063-9c29-b5f969f848f2",
@@ -4089,7 +4089,7 @@ export const articles = [
     title: "Recruiter",
     text: "Juvenile osteochondrosis of tibia and fibula, unspecified leg",
     type: "Shopping",
-    url: "http://dummyimage.com/182x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/182x100.png/ff4444/ffffff",
   },
   {
     id: "7969a738-7841-48be-b762-a0392504e9fe",
@@ -4100,7 +4100,7 @@ export const articles = [
     title: "Speech Pathologist",
     text: "Burn of first degree of multiple sites of left wrist and hand, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/144x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/144x100.png/ff4444/ffffff",
   },
   {
     id: "c95be10a-ab80-44f2-bd96-576ad105afd3",
@@ -4111,7 +4111,7 @@ export const articles = [
     title: "Civil Engineer",
     text: "Bipolar disorder, in partial remission, most recent episode depressed",
     type: "Shopping",
-    url: "http://dummyimage.com/239x100.png/dddddd/000000",
+    url: "https://dummyimage.com/239x100.png/dddddd/000000",
   },
   {
     id: "b6e993eb-0ef8-41e0-bd80-674a1014a883",
@@ -4122,7 +4122,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Other mechanical complication of cardiac electrode",
     type: "Business",
-    url: "http://dummyimage.com/107x100.png/dddddd/000000",
+    url: "https://dummyimage.com/107x100.png/dddddd/000000",
   },
   {
     id: "8a5eff77-f74c-497f-846f-ad31a07039a1",
@@ -4133,7 +4133,7 @@ export const articles = [
     title: "Account Coordinator",
     text: "Poisoning by analeptics and opioid receptor antagonists, accidental (unintentional), subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/210x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/210x100.png/5fa2dd/ffffff",
   },
   {
     id: "32c324c0-1ce6-4fe6-a1cb-06e2b54db4e0",
@@ -4144,7 +4144,7 @@ export const articles = [
     title: "Tax Accountant",
     text: "Intentional self-harm by hot tap water, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/225x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/225x100.png/5fa2dd/ffffff",
   },
   {
     id: "d5d8d5e2-cdf4-4e3b-9710-544118492c1b",
@@ -4155,7 +4155,7 @@ export const articles = [
     title: "Technical Writer",
     text: "Car driver injured in collision with other type car in nontraffic accident, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/238x100.png/dddddd/000000",
+    url: "https://dummyimage.com/238x100.png/dddddd/000000",
   },
   {
     id: "576aee44-2801-4d85-a6de-b0e6adb52f7a",
@@ -4166,7 +4166,7 @@ export const articles = [
     title: "VP Sales",
     text: "Degenerative myopia, right eye",
     type: "Shopping",
-    url: "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/199x100.png/5fa2dd/ffffff",
   },
   {
     id: "a75d97b1-fd98-4e20-9f95-cb68a861a4a4",
@@ -4177,7 +4177,7 @@ export const articles = [
     title: "VP Sales",
     text: "Strain of intrinsic muscle, fascia and tendon of left middle finger at wrist and hand level, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/151x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/151x100.png/ff4444/ffffff",
   },
   {
     id: "297f4f01-39f6-4c7b-a695-a49e86aa676f",
@@ -4188,7 +4188,7 @@ export const articles = [
     title: "Associate Professor",
     text: "Nondisplaced transcondylar fracture of unspecified humerus, subsequent encounter for fracture with delayed healing",
     type: "Business",
-    url: "http://dummyimage.com/235x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/235x100.png/cc0000/ffffff",
   },
   {
     id: "fb50a7b2-244c-4fbd-8cdb-11235ab83952",
@@ -4199,7 +4199,7 @@ export const articles = [
     title: "VP Accounting",
     text: "Poisoning by unspecified antipsychotics and neuroleptics, accidental (unintentional), initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/119x100.png/dddddd/000000",
+    url: "https://dummyimage.com/119x100.png/dddddd/000000",
   },
   {
     id: "9591ad5f-6cd8-4d3e-b038-a66c35949b0f",
@@ -4210,7 +4210,7 @@ export const articles = [
     title: "Information Systems Manager",
     text: "Toxic effect of strychnine and its salts",
     type: "Business",
-    url: "http://dummyimage.com/122x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/122x100.png/cc0000/ffffff",
   },
   {
     id: "6b4b9598-8fa7-4251-bcdd-6c209ce224cd",
@@ -4221,7 +4221,7 @@ export const articles = [
     title: "Assistant Manager",
     text: "Puncture wound without foreign body of left index finger with damage to nail, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/104x100.png/ff4444/ffffff",
   },
   {
     id: "e3dc4628-4bdb-47f2-8499-39cd123ab9fe",
@@ -4232,7 +4232,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Injury of acoustic nerve, right side, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/120x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/120x100.png/ff4444/ffffff",
   },
   {
     id: "c4ca7dd4-e4a5-48ed-802f-a043bfdc9cb0",
@@ -4243,7 +4243,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Dislocation of proximal interphalangeal joint of left little finger, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/244x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/244x100.png/ff4444/ffffff",
   },
   {
     id: "cfc32102-3661-442a-9678-7f524711f719",
@@ -4254,7 +4254,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Ruvalcaba-Myhre-Smith syndrome",
     type: "Shopping",
-    url: "http://dummyimage.com/128x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/128x100.png/ff4444/ffffff",
   },
   {
     id: "09255439-e935-4f0b-8ec4-fb6df07bc07b",
@@ -4265,7 +4265,7 @@ export const articles = [
     title: "Marketing Manager",
     text: "Pathological fracture in neoplastic disease, right ulna, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/158x100.png/5fa2dd/ffffff",
   },
   {
     id: "01cbfc24-a69e-45b6-9baf-bbb82e8954be",
@@ -4276,7 +4276,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Toxic effect of taipan venom, intentional self-harm",
     type: "Shopping",
-    url: "http://dummyimage.com/137x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/137x100.png/ff4444/ffffff",
   },
   {
     id: "4c1a8b36-76e0-4607-a66d-c16f3618cc85",
@@ -4287,7 +4287,7 @@ export const articles = [
     title: "Accounting Assistant II",
     text: "Puncture wound with foreign body of left index finger with damage to nail",
     type: "Business",
-    url: "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/118x100.png/5fa2dd/ffffff",
   },
   {
     id: "bcdc4ab7-d6eb-4793-92dc-31de4d47b990",
@@ -4298,7 +4298,7 @@ export const articles = [
     title: "Computer Systems Analyst III",
     text: "Nondisplaced fracture of intermediate cuneiform of left foot, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/100x100.png/5fa2dd/ffffff",
   },
   {
     id: "fe7df45e-4ff3-4e8a-91e1-1629e95c0aaa",
@@ -4309,7 +4309,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Laceration without foreign body of trachea, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/154x100.png/5fa2dd/ffffff",
   },
   {
     id: "c44d1ce3-b374-4078-9480-b67175f7b551",
@@ -4320,7 +4320,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Inconclusive mammogram",
     type: "Business",
-    url: "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/156x100.png/5fa2dd/ffffff",
   },
   {
     id: "238cca78-4108-4fe8-9c81-dbe4da503c81",
@@ -4331,7 +4331,7 @@ export const articles = [
     title: "VP Marketing",
     text: "Malignant neoplasm of central portion of right female breast",
     type: "Shopping",
-    url: "http://dummyimage.com/249x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/249x100.png/ff4444/ffffff",
   },
   {
     id: "79ef1ae8-8178-4142-8dec-a275240f4a69",
@@ -4342,7 +4342,7 @@ export const articles = [
     title: "Food Chemist",
     text: "Corrosions of other specified parts of right eye and adnexa, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/193x100.png/5fa2dd/ffffff",
   },
   {
     id: "8d9554eb-f4ca-492b-831a-f715551fc96b",
@@ -4353,7 +4353,7 @@ export const articles = [
     title: "Administrative Assistant II",
     text: "Laceration of flexor muscle, fascia and tendon of right little finger at forearm level, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/236x100.png/dddddd/000000",
+    url: "https://dummyimage.com/236x100.png/dddddd/000000",
   },
   {
     id: "d74c3ea4-7447-449b-a599-46dd02e45f06",
@@ -4364,7 +4364,7 @@ export const articles = [
     title: "Biostatistician II",
     text: "Vascular anomalies of eyelid",
     type: "Business",
-    url: "http://dummyimage.com/142x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/142x100.png/cc0000/ffffff",
   },
   {
     id: "9c21cbc2-675c-46e6-aff8-de14f7020a36",
@@ -4375,7 +4375,7 @@ export const articles = [
     title: "Executive Secretary",
     text: "Displaced fracture of proximal phalanx of unspecified thumb, subsequent encounter for fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/161x100.png/dddddd/000000",
+    url: "https://dummyimage.com/161x100.png/dddddd/000000",
   },
   {
     id: "285e9e7e-df9b-4f36-9cbe-716f79ba27a7",
@@ -4386,7 +4386,7 @@ export const articles = [
     title: "Project Manager",
     text: "Zygomatic fracture, right side",
     type: "Finance",
-    url: "http://dummyimage.com/148x100.png/dddddd/000000",
+    url: "https://dummyimage.com/148x100.png/dddddd/000000",
   },
   {
     id: "c36ba3ee-2d6f-4c85-9f5c-5b1d53c01f01",
@@ -4397,7 +4397,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Unspecified fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/175x100.png/5fa2dd/ffffff",
   },
   {
     id: "2c9c2716-f345-4538-a6ba-055ee42f5518",
@@ -4408,7 +4408,7 @@ export const articles = [
     title: "Computer Systems Analyst II",
     text: "Other disorders of bone development and growth, right fibula",
     type: "Business",
-    url: "http://dummyimage.com/139x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/139x100.png/5fa2dd/ffffff",
   },
   {
     id: "f0d70c6f-b547-410e-9779-b24a9a0db1d7",
@@ -4419,7 +4419,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Other specified injury of intrinsic muscle and tendon at ankle and foot level, unspecified foot, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/145x100.png/5fa2dd/ffffff",
   },
   {
     id: "760f334c-a9c6-4d14-a105-71009877c548",
@@ -4430,7 +4430,7 @@ export const articles = [
     title: "Safety Technician IV",
     text: "Cutaneous follicle center lymphoma, lymph nodes of multiple sites",
     type: "Shopping",
-    url: "http://dummyimage.com/179x100.png/dddddd/000000",
+    url: "https://dummyimage.com/179x100.png/dddddd/000000",
   },
   {
     id: "f3ea4140-d6cf-4a0c-b93c-0352593b07f9",
@@ -4441,7 +4441,7 @@ export const articles = [
     title: "Geologist II",
     text: "Osteopathy in diseases classified elsewhere, right upper arm",
     type: "Business",
-    url: "http://dummyimage.com/114x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/114x100.png/ff4444/ffffff",
   },
   {
     id: "196093a4-bbc8-4aa5-960c-6b607714e1ea",
@@ -4452,7 +4452,7 @@ export const articles = [
     title: "Clinical Specialist",
     text: "Spontaneous rupture of flexor tendons, unspecified hand",
     type: "Business",
-    url: "http://dummyimage.com/147x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/147x100.png/5fa2dd/ffffff",
   },
   {
     id: "52f60dc7-bfc3-4b17-b78f-f07cab671658",
@@ -4463,7 +4463,7 @@ export const articles = [
     title: "Structural Engineer",
     text: "Poisoning by, adverse effect of and underdosing of barbiturates",
     type: "Shopping",
-    url: "http://dummyimage.com/110x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/110x100.png/5fa2dd/ffffff",
   },
   {
     id: "453576e9-dc85-40fa-a985-c3ef1fe2cd51",
@@ -4474,7 +4474,7 @@ export const articles = [
     title: "Software Engineer IV",
     text: "Laceration of flexor muscle, fascia and tendon of right middle finger at wrist and hand level, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/163x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/163x100.png/cc0000/ffffff",
   },
   {
     id: "37712b2c-ac86-44fe-89d9-14bf1f60a2c5",
@@ -4485,7 +4485,7 @@ export const articles = [
     title: "Assistant Media Planner",
     text: "Displaced subtrochanteric fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",
     type: "Shopping",
-    url: "http://dummyimage.com/158x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/158x100.png/cc0000/ffffff",
   },
   {
     id: "a8fded2a-d291-495b-b7b7-e90870caae6c",
@@ -4496,7 +4496,7 @@ export const articles = [
     title: "Senior Developer",
     text: "Ocular hypertension, left eye",
     type: "Shopping",
-    url: "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/182x100.png/5fa2dd/ffffff",
   },
   {
     id: "9805e05f-3a2f-4f40-9abe-023dad0305de",
@@ -4507,7 +4507,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Corrosion of first degree of multiple sites of left shoulder and upper limb, except wrist and hand, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/223x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/223x100.png/ff4444/ffffff",
   },
   {
     id: "4a568f47-6794-45aa-80f8-2831ea93f5d8",
@@ -4518,7 +4518,7 @@ export const articles = [
     title: "Quality Control Specialist",
     text: "Unspecified injury of unspecified kidney, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/126x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/126x100.png/cc0000/ffffff",
   },
   {
     id: "a1cb02cb-4469-4ed1-96ad-dfdb0793bfb9",
@@ -4529,7 +4529,7 @@ export const articles = [
     title: "Community Outreach Specialist",
     text: "Preterm premature rupture of membranes, onset of labor within 24 hours of rupture, third trimester",
     type: "Shopping",
-    url: "http://dummyimage.com/142x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/142x100.png/cc0000/ffffff",
   },
   {
     id: "fc8cff93-f627-430c-a008-b83fb808da5f",
@@ -4540,7 +4540,7 @@ export const articles = [
     title: "Data Coordiator",
     text: "Corrosion of first degree of multiple right fingers (nail), including thumb, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/174x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/174x100.png/ff4444/ffffff",
   },
   {
     id: "8d778745-532c-4bb9-9e8e-6b38b61a8bf5",
@@ -4551,7 +4551,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs",
     type: "Shopping",
-    url: "http://dummyimage.com/178x100.png/dddddd/000000",
+    url: "https://dummyimage.com/178x100.png/dddddd/000000",
   },
   {
     id: "b6303cea-4ac4-4224-b243-27c3d51c266d",
@@ -4562,7 +4562,7 @@ export const articles = [
     title: "VP Product Management",
     text: "Nondisplaced oblique fracture of shaft of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/181x100.png/5fa2dd/ffffff",
   },
   {
     id: "2cd68936-1c3f-4943-b66b-5ace47c5eebd",
@@ -4573,7 +4573,7 @@ export const articles = [
     title: "Financial Analyst",
     text: "Poisoning by methylphenidate, intentional self-harm, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/224x100.png/dddddd/000000",
+    url: "https://dummyimage.com/224x100.png/dddddd/000000",
   },
   {
     id: "819ec364-faf0-4318-9b46-bdfa28558a97",
@@ -4584,7 +4584,7 @@ export const articles = [
     title: "Data Coordiator",
     text: "Displaced unspecified condyle fracture of lower end of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",
     type: "Business",
-    url: "http://dummyimage.com/153x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/153x100.png/5fa2dd/ffffff",
   },
   {
     id: "6c9e26c6-e0d8-400e-ad96-ee31a1139047",
@@ -4595,7 +4595,7 @@ export const articles = [
     title: "Office Assistant II",
     text: "Nondisplaced oblique fracture of shaft of humerus, left arm, subsequent encounter for fracture with malunion",
     type: "Finance",
-    url: "http://dummyimage.com/152x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/152x100.png/cc0000/ffffff",
   },
   {
     id: "db489a2e-3e82-4c3d-87fa-60a76e357dc5",
@@ -4606,7 +4606,7 @@ export const articles = [
     title: "Associate Professor",
     text: "Other mechanical complication of implanted electronic neurostimulator of peripheral nerve electrode (lead)",
     type: "Business",
-    url: "http://dummyimage.com/170x100.png/dddddd/000000",
+    url: "https://dummyimage.com/170x100.png/dddddd/000000",
   },
   {
     id: "6539b654-5326-4462-8e4b-5e630c95b42e",
@@ -4617,7 +4617,7 @@ export const articles = [
     title: "Analyst Programmer",
     text: "Unspecified injury of other blood vessels at forearm level, unspecified arm, sequela",
     type: "Business",
-    url: "http://dummyimage.com/223x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/223x100.png/cc0000/ffffff",
   },
   {
     id: "c62e0783-d157-4e0c-a47c-431f7b8e64f9",
@@ -4628,7 +4628,7 @@ export const articles = [
     title: "Social Worker",
     text: "Pedestrian on foot injured in collision with skateboarder, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/207x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/207x100.png/cc0000/ffffff",
   },
   {
     id: "2e077f78-c3e9-4acf-b620-f762b3862a24",
@@ -4639,7 +4639,7 @@ export const articles = [
     title: "Payment Adjustment Coordinator",
     text: "Corrosion of unspecified degree of multiple sites of unspecified shoulder and upper limb, except wrist and hand, subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/180x100.png/dddddd/000000",
+    url: "https://dummyimage.com/180x100.png/dddddd/000000",
   },
   {
     id: "b3a0236b-9e4d-4dae-a8e1-0c4c874eeb4d",
@@ -4650,7 +4650,7 @@ export const articles = [
     title: "Graphic Designer",
     text: "Unspecified injury of inferior mesenteric vein",
     type: "Business",
-    url: "http://dummyimage.com/105x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/105x100.png/cc0000/ffffff",
   },
   {
     id: "be91b1f6-5e4e-48b2-91c0-08f02c386829",
@@ -4661,7 +4661,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Crohn's disease of small intestine with other complication",
     type: "Shopping",
-    url: "http://dummyimage.com/123x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/123x100.png/ff4444/ffffff",
   },
   {
     id: "cc071dd4-f908-4859-bf08-2f91ccf530a8",
@@ -4672,7 +4672,7 @@ export const articles = [
     title: "Database Administrator IV",
     text: "Exposure to tanning bed, sequela",
     type: "Business",
-    url: "http://dummyimage.com/170x100.png/dddddd/000000",
+    url: "https://dummyimage.com/170x100.png/dddddd/000000",
   },
   {
     id: "cebcea8c-d1c1-45e1-9994-25a414e17141",
@@ -4683,7 +4683,7 @@ export const articles = [
     title: "Business Systems Development Analyst",
     text: "Burns involving 50-59% of body surface with 50-59% third degree burns",
     type: "Shopping",
-    url: "http://dummyimage.com/158x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/158x100.png/ff4444/ffffff",
   },
   {
     id: "69f5bbaa-7588-483a-ad2f-048b262dabc9",
@@ -4694,7 +4694,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Pathological fracture, left foot, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/221x100.png/dddddd/000000",
+    url: "https://dummyimage.com/221x100.png/dddddd/000000",
   },
   {
     id: "33def3c3-a3ad-4956-96ca-94e03e48b225",
@@ -4705,7 +4705,7 @@ export const articles = [
     title: "Geologist II",
     text: "Unspecified subluxation of right wrist and hand, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/211x100.png/dddddd/000000",
+    url: "https://dummyimage.com/211x100.png/dddddd/000000",
   },
   {
     id: "9095f9ea-5c39-4ffd-8049-febc9f28846e",
@@ -4716,7 +4716,7 @@ export const articles = [
     title: "Senior Sales Associate",
     text: "Other fracture of unspecified thoracic vertebra, initial encounter for open fracture",
     type: "Finance",
-    url: "http://dummyimage.com/244x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/244x100.png/ff4444/ffffff",
   },
   {
     id: "fa92267c-9f08-4488-80a2-4f1c40af45a9",
@@ -4727,7 +4727,7 @@ export const articles = [
     title: "Administrative Assistant I",
     text: "Unspecified superficial injury of unspecified finger",
     type: "Shopping",
-    url: "http://dummyimage.com/201x100.png/dddddd/000000",
+    url: "https://dummyimage.com/201x100.png/dddddd/000000",
   },
   {
     id: "ef0d2c23-0f70-4609-9f05-2d3d39629407",
@@ -4738,7 +4738,7 @@ export const articles = [
     title: "Food Chemist",
     text: "Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder",
     type: "Business",
-    url: "http://dummyimage.com/134x100.png/dddddd/000000",
+    url: "https://dummyimage.com/134x100.png/dddddd/000000",
   },
   {
     id: "12bf4927-62d0-4a93-bdc3-663070c5063e",
@@ -4749,7 +4749,7 @@ export const articles = [
     title: "Operator",
     text: "Displaced fracture of posterior column [ilioischial] of unspecified acetabulum, subsequent encounter for fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/244x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/244x100.png/ff4444/ffffff",
   },
   {
     id: "7d32b652-aad8-4fff-a369-0d3b0692066f",
@@ -4760,7 +4760,7 @@ export const articles = [
     title: "Safety Technician I",
     text: "Poisoning by thrombolytic drug, undetermined",
     type: "Finance",
-    url: "http://dummyimage.com/135x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/135x100.png/cc0000/ffffff",
   },
   {
     id: "a495fa05-3e08-4da4-93a2-e1a4b248a1e6",
@@ -4771,7 +4771,7 @@ export const articles = [
     title: "Research Associate",
     text: "Displaced segmental fracture of shaft of ulna, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/138x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/138x100.png/5fa2dd/ffffff",
   },
   {
     id: "bb5137cd-ef0c-4570-9ee0-b28316bb2a1e",
@@ -4782,7 +4782,7 @@ export const articles = [
     title: "Compensation Analyst",
     text: "Passenger in heavy transport vehicle injured in collision with car, pick-up truck or van in traffic accident, initial encounter",
     type: "Finance",
-    url: "http://dummyimage.com/115x100.png/dddddd/000000",
+    url: "https://dummyimage.com/115x100.png/dddddd/000000",
   },
   {
     id: "df24c965-97b8-4b49-91ab-f49038972e51",
@@ -4793,7 +4793,7 @@ export const articles = [
     title: "Sales Representative",
     text: "Partial traumatic metacarpophalangeal amputation of right ring finger, subsequent encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/128x100.png/dddddd/000000",
+    url: "https://dummyimage.com/128x100.png/dddddd/000000",
   },
   {
     id: "0b998965-1c00-489a-92d7-b72a4fd034e2",
@@ -4804,7 +4804,7 @@ export const articles = [
     title: "Legal Assistant",
     text: "Other specified diabetes mellitus with other skin complications",
     type: "Finance",
-    url: "http://dummyimage.com/191x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/191x100.png/5fa2dd/ffffff",
   },
   {
     id: "07addd03-7ab4-4613-8ee2-ade2d4c128af",
@@ -4815,7 +4815,7 @@ export const articles = [
     title: "Analog Circuit Design manager",
     text: "Poisoning by antigonadotrophins, antiestrogens, antiandrogens, not elsewhere classified, assault, initial encounter",
     type: "Business",
-    url: "http://dummyimage.com/137x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/137x100.png/cc0000/ffffff",
   },
   {
     id: "51e15bdf-2fce-4cd6-80c1-1536aa798312",
@@ -4826,7 +4826,7 @@ export const articles = [
     title: "Software Engineer III",
     text: "Displaced fracture of medial phalanx of other finger, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/215x100.png/dddddd/000000",
+    url: "https://dummyimage.com/215x100.png/dddddd/000000",
   },
   {
     id: "ee6ff78a-b7ab-4d99-af11-95c80c79f86f",
@@ -4837,7 +4837,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Fibrosis due to nervous system prosthetic devices, implants and grafts",
     type: "Shopping",
-    url: "http://dummyimage.com/111x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/111x100.png/ff4444/ffffff",
   },
   {
     id: "cf49e777-2087-4881-ae98-73923569eca2",
@@ -4848,7 +4848,7 @@ export const articles = [
     title: "Business Systems Development Analyst",
     text: "Nondisplaced oblique fracture of shaft of right tibia, subsequent encounter for closed fracture with malunion",
     type: "Finance",
-    url: "http://dummyimage.com/150x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/150x100.png/5fa2dd/ffffff",
   },
   {
     id: "536141c0-d550-469d-ad16-9c41b6c3c4f1",
@@ -4859,7 +4859,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Non-pressure chronic ulcer of other part of right foot with necrosis of muscle",
     type: "Shopping",
-    url: "http://dummyimage.com/246x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/246x100.png/ff4444/ffffff",
   },
   {
     id: "e294ca05-44c9-4ff3-903b-3fc7a4ce0f82",
@@ -4870,7 +4870,7 @@ export const articles = [
     title: "VP Product Management",
     text: "Unspecified sprain of right middle finger",
     type: "Shopping",
-    url: "http://dummyimage.com/152x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/152x100.png/5fa2dd/ffffff",
   },
   {
     id: "03e0de92-41ce-484a-bada-ceac0f7d014a",
@@ -4881,7 +4881,7 @@ export const articles = [
     title: "Dental Hygienist",
     text: "Pain due to genitourinary prosthetic devices, implants and grafts, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/205x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/205x100.png/cc0000/ffffff",
   },
   {
     id: "890c31e7-dcab-4a24-8239-83d5662d361d",
@@ -4892,7 +4892,7 @@ export const articles = [
     title: "Nuclear Power Engineer",
     text: "Displaced fracture of neck of first metacarpal bone, right hand",
     type: "Finance",
-    url: "http://dummyimage.com/213x100.png/dddddd/000000",
+    url: "https://dummyimage.com/213x100.png/dddddd/000000",
   },
   {
     id: "7f1d800d-5323-4d69-9816-54292c4eaa93",
@@ -4903,7 +4903,7 @@ export const articles = [
     title: "Human Resources Assistant IV",
     text: "Displaced fracture of neck of fourth metacarpal bone, right hand, subsequent encounter for fracture with malunion",
     type: "Shopping",
-    url: "http://dummyimage.com/111x100.png/dddddd/000000",
+    url: "https://dummyimage.com/111x100.png/dddddd/000000",
   },
   {
     id: "867e1262-87e6-49ac-8445-263e2399b7bf",
@@ -4914,7 +4914,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Injury of cutaneous sensory nerve at shoulder and upper arm level, unspecified arm",
     type: "Business",
-    url: "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/225x100.png/cc0000/ffffff",
   },
   {
     id: "31603b1a-43a7-4188-8fb8-c52e8f505d9f",
@@ -4925,7 +4925,7 @@ export const articles = [
     title: "Software Consultant",
     text: "Retained (nonmagnetic) (old) foreign body in posterior wall of globe, bilateral",
     type: "Shopping",
-    url: "http://dummyimage.com/128x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/128x100.png/cc0000/ffffff",
   },
   {
     id: "3cde8077-b715-416a-b235-3ddda7f7613d",
@@ -4936,7 +4936,7 @@ export const articles = [
     title: "Associate Professor",
     text: "Injury of radial nerve at forearm level, left arm, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/213x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/213x100.png/ff4444/ffffff",
   },
   {
     id: "dfc78782-2a2d-4b3a-aecd-a955c5c32ea8",
@@ -4947,7 +4947,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Unspecified injury of muscle, fascia and tendon of other parts of biceps, right arm, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/245x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/245x100.png/ff4444/ffffff",
   },
   {
     id: "b2219b7e-8383-4e04-b82e-d29218feb6eb",
@@ -4958,7 +4958,7 @@ export const articles = [
     title: "Safety Technician IV",
     text: "Displaced fracture of medial phalanx of right middle finger, subsequent encounter for fracture with nonunion",
     type: "Business",
-    url: "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/112x100.png/5fa2dd/ffffff",
   },
   {
     id: "1d9cd18f-2c22-4428-8cf1-c9b1d6faddcb",
@@ -4969,7 +4969,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Legal intervention involving injury by dynamite, suspect injured, initial encounter",
     type: "Finance",
-    url: "http://dummyimage.com/202x100.png/dddddd/000000",
+    url: "https://dummyimage.com/202x100.png/dddddd/000000",
   },
   {
     id: "79f2b4b1-8f2f-4e1e-a9ad-9700a088ba1e",
@@ -4980,7 +4980,7 @@ export const articles = [
     title: "Software Test Engineer III",
     text: "Primary osteoarthritis, left shoulder",
     type: "Shopping",
-    url: "http://dummyimage.com/227x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/227x100.png/cc0000/ffffff",
   },
   {
     id: "fb8f4df3-70d0-40fd-a2c4-145664aafeb1",
@@ -4991,7 +4991,7 @@ export const articles = [
     title: "Desktop Support Technician",
     text: "Unspecified Eustachian tube disorder, bilateral",
     type: "Business",
-    url: "http://dummyimage.com/127x100.png/dddddd/000000",
+    url: "https://dummyimage.com/127x100.png/dddddd/000000",
   },
   {
     id: "df1b0389-df80-4311-93aa-ecfd9bfbb613",
@@ -5002,7 +5002,7 @@ export const articles = [
     title: "Web Designer II",
     text: "Driver of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/146x100.png/5fa2dd/ffffff",
   },
   {
     id: "de7b098b-6611-4d9a-a2ed-b0e559c01ff1",
@@ -5013,7 +5013,7 @@ export const articles = [
     title: "Teacher",
     text: "Corrosion of unspecified degree of male genital region, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/116x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/116x100.png/ff4444/ffffff",
   },
   {
     id: "38721554-2916-415c-a968-9451beac3209",
@@ -5024,7 +5024,7 @@ export const articles = [
     title: "Computer Systems Analyst IV",
     text: "Nondisplaced fracture of distal phalanx of right lesser toe(s), subsequent encounter for fracture with malunion",
     type: "Business",
-    url: "http://dummyimage.com/195x100.png/dddddd/000000",
+    url: "https://dummyimage.com/195x100.png/dddddd/000000",
   },
   {
     id: "3d156475-86b5-4868-b13f-70d9ef434a0c",
@@ -5035,7 +5035,7 @@ export const articles = [
     title: "Electrical Engineer",
     text: "Other specified degenerative diseases of basal ganglia",
     type: "Shopping",
-    url: "http://dummyimage.com/240x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/240x100.png/5fa2dd/ffffff",
   },
   {
     id: "b2e90f38-6e51-453f-be78-9e48e8c28303",
@@ -5046,7 +5046,7 @@ export const articles = [
     title: "Health Coach III",
     text: "Torus fracture of lower end of radius",
     type: "Business",
-    url: "http://dummyimage.com/143x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/143x100.png/ff4444/ffffff",
   },
   {
     id: "ff41e7cf-6e2b-4e79-a86b-c7018e4786d3",
@@ -5057,7 +5057,7 @@ export const articles = [
     title: "Graphic Designer",
     text: "Displaced comminuted fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC",
     type: "Finance",
-    url: "http://dummyimage.com/216x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/216x100.png/cc0000/ffffff",
   },
   {
     id: "adfc25b4-1398-4599-b1a8-65c8244a3605",
@@ -5068,7 +5068,7 @@ export const articles = [
     title: "Actuary",
     text: "Legal intervention involving other sharp objects, law enforcement official injured",
     type: "Shopping",
-    url: "http://dummyimage.com/183x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/183x100.png/ff4444/ffffff",
   },
   {
     id: "9872b9e4-6e0e-4791-b9e6-2f43159160f3",
@@ -5079,7 +5079,7 @@ export const articles = [
     title: "Help Desk Operator",
     text: "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh",
     type: "Business",
-    url: "http://dummyimage.com/120x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/120x100.png/cc0000/ffffff",
   },
   {
     id: "dd8afe51-58a0-4d09-b09b-b50c8cf58f70",
@@ -5090,7 +5090,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Contusion of right knee, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/110x100.png/dddddd/000000",
+    url: "https://dummyimage.com/110x100.png/dddddd/000000",
   },
   {
     id: "3acc4978-3773-4ce7-b4ab-9add53c517a6",
@@ -5101,7 +5101,7 @@ export const articles = [
     title: "Office Assistant I",
     text: "Toxic effect of manganese and its compounds",
     type: "Business",
-    url: "http://dummyimage.com/167x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/167x100.png/5fa2dd/ffffff",
   },
   {
     id: "52dc7d6e-1d12-4f12-adbb-ba1bc7a16e85",
@@ -5112,7 +5112,7 @@ export const articles = [
     title: "Health Coach IV",
     text: "Contact with unspecified hot objects, undetermined intent, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/246x100.png/dddddd/000000",
+    url: "https://dummyimage.com/246x100.png/dddddd/000000",
   },
   {
     id: "3f341dd2-1804-4d2f-9b9f-a80c779c29fc",
@@ -5123,7 +5123,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Burn of unspecified degree of unspecified multiple fingers (nail), including thumb, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/128x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/128x100.png/ff4444/ffffff",
   },
   {
     id: "d886a9b4-8ce6-4b66-b6ba-5c11a6e4c2e5",
@@ -5134,7 +5134,7 @@ export const articles = [
     title: "Database Administrator III",
     text: "Nondisplaced fracture of epiphysis (separation) (upper) of left femur, subsequent encounter for closed fracture with delayed healing",
     type: "Shopping",
-    url: "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/115x100.png/5fa2dd/ffffff",
   },
   {
     id: "06add271-3701-4c89-98d7-017ff33e3030",
@@ -5145,7 +5145,7 @@ export const articles = [
     title: "Office Assistant IV",
     text: "Genital varices in pregnancy",
     type: "Business",
-    url: "http://dummyimage.com/197x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/197x100.png/5fa2dd/ffffff",
   },
   {
     id: "d2602966-1f5f-4256-81b3-ebd938b5e1fe",
@@ -5156,7 +5156,7 @@ export const articles = [
     title: "Design Engineer",
     text: "Infective myositis, right shoulder",
     type: "Business",
-    url: "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/169x100.png/5fa2dd/ffffff",
   },
   {
     id: "c39d8904-2494-4ead-a9b7-2037d3c02663",
@@ -5167,7 +5167,7 @@ export const articles = [
     title: "Staff Scientist",
     text: "Insect bite (nonvenomous), unspecified ankle, subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/150x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/150x100.png/cc0000/ffffff",
   },
   {
     id: "64b8366e-9933-4ba1-bc64-986c65d9ddf9",
@@ -5178,7 +5178,7 @@ export const articles = [
     title: "Environmental Tech",
     text: "Peripheral tear of lateral meniscus, current injury",
     type: "Business",
-    url: "http://dummyimage.com/157x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/157x100.png/ff4444/ffffff",
   },
   {
     id: "54bd4cc6-16b4-404b-8842-87ac4056436e",
@@ -5189,7 +5189,7 @@ export const articles = [
     title: "Account Executive",
     text: "Toxic effect of other specified inorganic substances, accidental (unintentional), subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/215x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/215x100.png/cc0000/ffffff",
   },
   {
     id: "b8192c92-93d8-4c63-9c24-d51e78789890",
@@ -5200,7 +5200,7 @@ export const articles = [
     title: "Marketing Assistant",
     text: "Laceration of sigmoid colon, sequela",
     type: "Business",
-    url: "http://dummyimage.com/125x100.png/dddddd/000000",
+    url: "https://dummyimage.com/125x100.png/dddddd/000000",
   },
   {
     id: "745adbd3-7c1e-43f6-b8d3-581ddec14a86",
@@ -5211,7 +5211,7 @@ export const articles = [
     title: "Business Systems Development Analyst",
     text: "Esophagostomy malfunction",
     type: "Shopping",
-    url: "http://dummyimage.com/173x100.png/dddddd/000000",
+    url: "https://dummyimage.com/173x100.png/dddddd/000000",
   },
   {
     id: "ff086354-2a85-4723-a5d7-3a2243bde10e",
@@ -5222,7 +5222,7 @@ export const articles = [
     title: "Administrative Assistant III",
     text: "Toxic effects of trichloroethylene",
     type: "Business",
-    url: "http://dummyimage.com/203x100.png/dddddd/000000",
+    url: "https://dummyimage.com/203x100.png/dddddd/000000",
   },
   {
     id: "437391f5-979f-48f5-9ec5-40c173d86bc9",
@@ -5233,7 +5233,7 @@ export const articles = [
     title: "Structural Engineer",
     text: "Nondisplaced fracture of fourth metatarsal bone, left foot",
     type: "Shopping",
-    url: "http://dummyimage.com/133x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/133x100.png/5fa2dd/ffffff",
   },
   {
     id: "c69b0b07-50c5-4254-bebe-e3f161b48333",
@@ -5244,7 +5244,7 @@ export const articles = [
     title: "Human Resources Manager",
     text: "Nondisplaced bicondylar fracture of right tibia, subsequent encounter for open fracture type I or II with routine healing",
     type: "Business",
-    url: "http://dummyimage.com/175x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/175x100.png/cc0000/ffffff",
   },
   {
     id: "8b636f54-4b39-4836-8e6b-1d3678dc0c45",
@@ -5255,7 +5255,7 @@ export const articles = [
     title: "Recruiting Manager",
     text: "Term delivery with preterm labor, unspecified trimester",
     type: "Shopping",
-    url: "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/226x100.png/5fa2dd/ffffff",
   },
   {
     id: "f8b1ae32-7f5c-4c81-a8a7-bde5cb5c0487",
@@ -5266,7 +5266,7 @@ export const articles = [
     title: "Compensation Analyst",
     text: "Insect bite (nonvenomous), unspecified ankle, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/192x100.png/dddddd/000000",
+    url: "https://dummyimage.com/192x100.png/dddddd/000000",
   },
   {
     id: "02dc0a7c-0f90-438c-a0d1-b463e66d4272",
@@ -5277,7 +5277,7 @@ export const articles = [
     title: "Health Coach IV",
     text: "Nondisplaced fracture of distal pole of navicular [scaphoid] bone of right wrist, initial encounter for closed fracture",
     type: "Shopping",
-    url: "http://dummyimage.com/170x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/170x100.png/cc0000/ffffff",
   },
   {
     id: "b7443b62-5de8-46fe-929e-93e52f3c3a22",
@@ -5288,7 +5288,7 @@ export const articles = [
     title: "Automation Specialist IV",
     text: "Displaced other fracture of tuberosity of right calcaneus, sequela",
     type: "Finance",
-    url: "http://dummyimage.com/218x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/218x100.png/ff4444/ffffff",
   },
   {
     id: "67e807ac-a811-4133-9114-c2110706a2e0",
@@ -5299,7 +5299,7 @@ export const articles = [
     title: "Financial Advisor",
     text: "Displaced fracture of medial condyle of left femur",
     type: "Business",
-    url: "http://dummyimage.com/228x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/228x100.png/ff4444/ffffff",
   },
   {
     id: "52a5052e-3f09-47f0-accd-b2cdda55d558",
@@ -5310,7 +5310,7 @@ export const articles = [
     title: "GIS Technical Architect",
     text: "Burn of unspecified degree of trunk, unspecified site, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/135x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/135x100.png/cc0000/ffffff",
   },
   {
     id: "404a2283-b84f-458c-8c9f-65e04d79b707",
@@ -5321,7 +5321,7 @@ export const articles = [
     title: "Civil Engineer",
     text: "Altered mental status, unspecified",
     type: "Business",
-    url: "http://dummyimage.com/168x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/168x100.png/cc0000/ffffff",
   },
   {
     id: "2df46e4a-3a83-4411-9baf-12da53e9ba4f",
@@ -5332,7 +5332,7 @@ export const articles = [
     title: "Staff Accountant II",
     text: "Toxic effect of carbon monoxide from unspecified source, accidental (unintentional), subsequent encounter",
     type: "Finance",
-    url: "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/120x100.png/5fa2dd/ffffff",
   },
   {
     id: "b9c531a4-d4b1-4df6-9dd9-6b05b98f32c2",
@@ -5343,7 +5343,7 @@ export const articles = [
     title: "Financial Advisor",
     text: "Trigger finger, left little finger",
     type: "Shopping",
-    url: "http://dummyimage.com/209x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/209x100.png/cc0000/ffffff",
   },
   {
     id: "ecc8b292-3a89-45d1-9f34-a22f9cabc8ca",
@@ -5354,7 +5354,7 @@ export const articles = [
     title: "Human Resources Assistant III",
     text: "Other specified diseases of stomach and duodenum",
     type: "Shopping",
-    url: "http://dummyimage.com/194x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/194x100.png/ff4444/ffffff",
   },
   {
     id: "d9f904b3-8cb6-48ca-89d6-594d032e1c07",
@@ -5365,7 +5365,7 @@ export const articles = [
     title: "VP Quality Control",
     text: "Underdosing of other agents primarily acting on the respiratory system, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/121x100.png/5fa2dd/ffffff",
   },
   {
     id: "4886759f-79be-4a2b-a5f9-791d5922b6f6",
@@ -5376,7 +5376,7 @@ export const articles = [
     title: "Chief Design Engineer",
     text: "Corrosion of unspecified degree of right forearm",
     type: "Shopping",
-    url: "http://dummyimage.com/192x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/192x100.png/ff4444/ffffff",
   },
   {
     id: "88214ba4-036e-4cd5-b8a4-8309dc95e453",
@@ -5387,7 +5387,7 @@ export const articles = [
     title: "Speech Pathologist",
     text: "Nondisplaced fracture of shaft of unspecified clavicle, initial encounter for closed fracture",
     type: "Business",
-    url: "http://dummyimage.com/140x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/140x100.png/5fa2dd/ffffff",
   },
   {
     id: "d983529a-a314-4a8c-a91a-139622eb7c88",
@@ -5398,7 +5398,7 @@ export const articles = [
     title: "Registered Nurse",
     text: "Adult osteochondrosis of spine, site unspecified",
     type: "Shopping",
-    url: "http://dummyimage.com/218x100.png/dddddd/000000",
+    url: "https://dummyimage.com/218x100.png/dddddd/000000",
   },
   {
     id: "a4bb4a48-f964-41bd-a8ad-24d8567e6f1a",
@@ -5409,7 +5409,7 @@ export const articles = [
     title: "Nurse Practicioner",
     text: "Assault by unarmed brawl or fight, initial encounter",
     type: "Shopping",
-    url: "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
+    url: "https://dummyimage.com/170x100.png/5fa2dd/ffffff",
   },
   {
     id: "8166e470-ef9a-4f52-9316-4e3bc224cb99",
@@ -5420,7 +5420,7 @@ export const articles = [
     title: "Quality Control Specialist",
     text: "Other accident with wheelchair (powered)",
     type: "Finance",
-    url: "http://dummyimage.com/174x100.png/dddddd/000000",
+    url: "https://dummyimage.com/174x100.png/dddddd/000000",
   },
   {
     id: "a177df6c-f456-486e-bf68-ab35f2ff2d69",
@@ -5431,7 +5431,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Fracture of left shoulder girdle, part unspecified, subsequent encounter for fracture with nonunion",
     type: "Shopping",
-    url: "http://dummyimage.com/227x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/227x100.png/ff4444/ffffff",
   },
   {
     id: "2fa7c131-f818-4b25-9c11-ee3212fb47c6",
@@ -5442,7 +5442,7 @@ export const articles = [
     title: "Nurse",
     text: "Malignant neoplasm of upper-outer quadrant of breast, male",
     type: "Shopping",
-    url: "http://dummyimage.com/177x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/177x100.png/cc0000/ffffff",
   },
   {
     id: "14ee7a3c-b898-4611-807a-efd31683b997",
@@ -5453,7 +5453,7 @@ export const articles = [
     title: "Senior Cost Accountant",
     text: "Malignant neoplasm of pyloric antrum",
     type: "Business",
-    url: "http://dummyimage.com/116x100.png/ff4444/ffffff",
+    url: "https://dummyimage.com/116x100.png/ff4444/ffffff",
   },
   {
     id: "d149cfe3-1ef7-4309-b3a2-510387c29fb6",
@@ -5464,7 +5464,7 @@ export const articles = [
     title: "Budget/Accounting Analyst III",
     text: "Laceration of other muscles, fascia and tendons at forearm level, unspecified arm, subsequent encounter",
     type: "Business",
-    url: "http://dummyimage.com/245x100.png/dddddd/000000",
+    url: "https://dummyimage.com/245x100.png/dddddd/000000",
   },
   {
     id: "758c31fe-51fe-4bf3-a732-fb0aa8071f2f",
@@ -5475,7 +5475,7 @@ export const articles = [
     title: "Director of Sales",
     text: "Osteochondritis dissecans, unspecified wrist",
     type: "Finance",
-    url: "http://dummyimage.com/174x100.png/dddddd/000000",
+    url: "https://dummyimage.com/174x100.png/dddddd/000000",
   },
   {
     id: "df37e515-7355-4a79-8f83-bae2236c2247",
@@ -5486,7 +5486,7 @@ export const articles = [
     title: "Payment Adjustment Coordinator",
     text: "Crushing injury of abdomen, lower back, and pelvis, sequela",
     type: "Shopping",
-    url: "http://dummyimage.com/241x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/241x100.png/cc0000/ffffff",
   },
   {
     id: "8b3ed651-e2e2-44d0-ac26-a61bb22a5691",
@@ -5497,6 +5497,6 @@ export const articles = [
     title: "Administrative Officer",
     text: "Other constipation",
     type: "Business",
-    url: "http://dummyimage.com/139x100.png/cc0000/ffffff",
+    url: "https://dummyimage.com/139x100.png/cc0000/ffffff",
   },
 ];
